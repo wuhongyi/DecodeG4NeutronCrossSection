@@ -1,0 +1,63 @@
+G4NDL
+ENDF/B-VII.1
+repFlag:1
+targetMass:233.025
+nDiscrete:1
+disType:1  energy:0
+total:4
+nRanges:1
+range:4 it:2
+x:1e-05  y:3.73
+x:1.09e+06  y:3.73
+x:1.09e+06  y:0
+x:2e+07  y:0
+
+
+isoFlag:1
+
+
+nPartials:1
+dummy:1
+total:2
+nRanges:1
+range:2 it:2
+x:1e-05  y:1
+x:2e+07  y:1
+nen:4
+nRanges:1
+range:4 it:2
+e:1e-05
+neg:31
+nRanges:1
+31 2
+eg:0  pg:1.06284e-07
+eg:100000  pg:5.50473e-07
+eg:200000  pg:5.11368e-07
+eg:300000  pg:3.4392e-07
+eg:400000  pg:2.71727e-07
+eg:500000  pg:2.29614e-07
+eg:600000  pg:2.09561e-07
+eg:700000  pg:2.13571e-07
+eg:800000  pg:2.3162e-07
+eg:900000  pg:2.70724e-07
+eg:1e+06  pg:3.45925e-07
+eg:1.25e+06  pg:4.2614e-07
+eg:1.5e+06  pg:3.75003e-07
+eg:1.75e+06  pg:3.10831e-07
+eg:2e+06  pg:2.54681e-07
+eg:2.25e+06  pg:2.34628e-07
+eg:2.5e+06  pg:1.95523e-07
+eg:2.75e+06  pg:1.54413e-07
+eg:3e+06  pg:1.25335e-07
+eg:3.25e+06  pg:9.47535e-08
+eg:3.5e+06  pg:7.98135e-08
+eg:3.75e+06  pg:6.70794e-08
+eg:4e+06  pg:4.89309e-08
+eg:4.25e+06  pg:4.47196e-08
+eg:4.5e+06  pg:3.08826e-08
+eg:4.75e+06  pg:2.44654e-08
+eg:5e+06  pg:2.12569e-08
+eg:5.5e+06  pg:3.94054e-08
+eg:6e+06  pg:1.17314e-08
+eg:6.5e+06  pg:1.10295e-09
+eg:7e+06  pg:0

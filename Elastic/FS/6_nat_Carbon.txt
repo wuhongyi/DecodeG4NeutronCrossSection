@@ -1,0 +1,3135 @@
+G4NDL
+ENDF/B-VII.1
+repFlag:3  targetMass:11.898  frameFlag:2
+nEnergy_Legendre:248
+nRanges:1
+248 2
+temp:0  energy:1e-05  tempdep:0  nLegendre:2
+0
+0
+temp:0  energy:1000  tempdep:0  nLegendre:2
+0.00014011
+0
+temp:0  energy:5000  tempdep:0  nLegendre:2
+0.0006982
+0
+temp:0  energy:10000  tempdep:0  nLegendre:2
+0.001372
+0
+temp:0  energy:50000  tempdep:0  nLegendre:2
+0.006603
+7.4231e-05
+temp:0  energy:100000  tempdep:0  nLegendre:2
+0.012457
+0.00028013
+temp:0  energy:110000  tempdep:0  nLegendre:2
+0.013396
+0.00035243
+temp:0  energy:120000  tempdep:0  nLegendre:2
+0.014247
+0.00042976
+temp:0  energy:130000  tempdep:0  nLegendre:2
+0.014911
+0.000524
+temp:0  energy:140000  tempdep:0  nLegendre:2
+0.01512
+0.00070387
+temp:0  energy:145000  tempdep:0  nLegendre:2
+0.014993
+0.00095793
+temp:0  energy:147500  tempdep:0  nLegendre:2
+0.01516
+0.0012253
+temp:0  energy:150000  tempdep:0  nLegendre:2
+0.016272
+0.0016354
+temp:0  energy:152900  tempdep:0  nLegendre:2
+0.019677
+0.0019837
+temp:0  energy:155000  tempdep:0  nLegendre:2
+0.022008
+0.0018453
+temp:0  energy:157500  tempdep:0  nLegendre:2
+0.023056
+0.0015056
+temp:0  energy:160000  tempdep:0  nLegendre:2
+0.023114
+0.0012506
+temp:0  energy:165000  tempdep:0  nLegendre:2
+0.022837
+0.0010133
+temp:0  energy:170000  tempdep:0  nLegendre:2
+0.022787
+0.00093711
+temp:0  energy:175000  tempdep:0  nLegendre:2
+0.022941
+0.00091774
+temp:0  energy:180000  tempdep:0  nLegendre:2
+0.02322
+0.00092212
+temp:0  energy:190000  tempdep:0  nLegendre:2
+0.023976
+0.00096019
+temp:0  energy:200000  tempdep:0  nLegendre:2
+0.024868
+0.0010143
+temp:0  energy:300000  tempdep:0  nLegendre:4
+0.033897
+0.0019465
+6.3344e-05
+0
+temp:0  energy:400000  tempdep:0  nLegendre:4
+0.041486
+0.0030116
+0.0001281
+0
+temp:0  energy:500000  tempdep:0  nLegendre:4
+0.047802
+0.0041326
+0.00022308
+0
+temp:0  energy:600000  tempdep:0  nLegendre:4
+0.053145
+0.005274
+0.00034767
+0
+temp:0  energy:700000  tempdep:0  nLegendre:4
+0.057448
+0.0063949
+0.0004974
+-5.6411e-05
+temp:0  energy:800000  tempdep:0  nLegendre:4
+0.060789
+0.0074861
+0.00066509
+-0.00010135
+temp:0  energy:900000  tempdep:0  nLegendre:4
+0.063226
+0.0085536
+0.00084019
+-0.00017006
+temp:0  energy:1e+06  tempdep:0  nLegendre:4
+0.064797
+0.0096181
+0.0010081
+-0.00027049
+temp:0  energy:1.1e+06  tempdep:0  nLegendre:4
+0.0655
+0.010709
+0.0011468
+-0.00041188
+temp:0  energy:1.2e+06  tempdep:0  nLegendre:4
+0.06536
+0.011881
+0.0012347
+-0.00060508
+temp:0  energy:1.3e+06  tempdep:0  nLegendre:4
+0.064363
+0.013199
+0.0012405
+-0.00086203
+temp:0  energy:1.4e+06  tempdep:0  nLegendre:6
+0.062475
+0.014752
+0.0011228
+-0.0011952
+6.1145e-05
+0
+temp:0  energy:1.5e+06  tempdep:0  nLegendre:6
+0.059635
+0.016643
+0.00082598
+-0.0016157
+8.8288e-05
+0
+temp:0  energy:1.6e+06  tempdep:0  nLegendre:6
+0.055781
+0.01897
+0.00024924
+-0.0021263
+0.00012479
+0
+temp:0  energy:1.65e+06  tempdep:0  nLegendre:6
+0.053285
+0.020395
+-0.0002552
+-0.0024161
+0.0001488
+0
+temp:0  energy:1.68e+06  tempdep:0  nLegendre:6
+0.051806
+0.02117
+-0.0005907
+-0.0025785
+0.00016321
+0
+temp:0  energy:1.7e+06  tempdep:0  nLegendre:6
+0.050765
+0.02158
+-0.00086788
+-0.0026585
+0.00017282
+0
+temp:0  energy:1.71e+06  tempdep:0  nLegendre:6
+0.049951
+0.021849
+-0.0011148
+-0.0026614
+0.00017895
+0
+temp:0  energy:1.72e+06  tempdep:0  nLegendre:6
+0.048786
+0.022438
+-0.0013869
+-0.0025818
+0.00018508
+0
+temp:0  energy:1.73e+06  tempdep:0  nLegendre:6
+0.047608
+0.024263
+-0.0014102
+-0.0024353
+0.00019121
+0
+temp:0  energy:1.736e+06  tempdep:0  nLegendre:6
+0.04763
+0.02514
+-0.0011949
+-0.0024536
+0.00019489
+0
+temp:0  energy:1.74e+06  tempdep:0  nLegendre:6
+0.047709
+0.025087
+-0.0010515
+-0.0025254
+0.00019734
+0
+temp:0  energy:1.745e+06  tempdep:0  nLegendre:6
+0.047471
+0.024548
+-0.00096987
+-0.0026608
+0.0002004
+0
+temp:0  energy:1.75e+06  tempdep:0  nLegendre:6
+0.04693
+0.024108
+-0.0010242
+-0.0028044
+0.00020347
+0
+temp:0  energy:1.755e+06  tempdep:0  nLegendre:6
+0.046394
+0.024023
+-0.0011503
+-0.0029172
+0.00020653
+0
+temp:0  energy:1.76e+06  tempdep:0  nLegendre:6
+0.045964
+0.024154
+-0.0012868
+-0.0029973
+0.0002096
+0
+temp:0  energy:1.77e+06  tempdep:0  nLegendre:6
+0.045291
+0.024589
+-0.0015293
+-0.0031044
+0.00021572
+0
+temp:0  energy:1.78e+06  tempdep:0  nLegendre:6
+0.044688
+0.025035
+-0.0017368
+-0.0031831
+0.00022185
+0
+temp:0  energy:1.79e+06  tempdep:0  nLegendre:6
+0.044087
+0.025456
+-0.0019256
+-0.003252
+0.00022798
+0
+temp:0  energy:1.8e+06  tempdep:0  nLegendre:6
+0.043475
+0.02586
+-0.0021044
+-0.0033168
+0.00023411
+0
+temp:0  energy:1.82e+06  tempdep:0  nLegendre:6
+0.041905
+0.026777
+-0.0026118
+-0.0034112
+0.00024827
+0
+temp:0  energy:1.85e+06  tempdep:0  nLegendre:6
+0.039503
+0.028128
+-0.0033554
+-0.0035484
+0.0002695
+0
+temp:0  energy:1.9e+06  tempdep:0  nLegendre:6
+0.034624
+0.030586
+-0.0050853
+-0.0035966
+0.00030656
+0
+temp:0  energy:1.925e+06  tempdep:0  nLegendre:6
+0.03169
+0.031891
+-0.0062675
+-0.0034744
+0.00032456
+0
+temp:0  energy:1.95e+06  tempdep:0  nLegendre:6
+0.02825
+0.033253
+-0.0078156
+-0.0031577
+0.00034068
+0
+temp:0  energy:1.96e+06  tempdep:0  nLegendre:6
+0.02667
+0.033818
+-0.0085857
+-0.0029434
+0.0003461
+0
+temp:0  energy:1.97e+06  tempdep:0  nLegendre:6
+0.024929
+0.034405
+-0.0094769
+-0.0026547
+0.00035055
+0
+temp:0  energy:1.98e+06  tempdep:0  nLegendre:6
+0.02298
+0.035026
+-0.010524
+-0.0022657
+0.00035365
+0
+temp:0  energy:1.99e+06  tempdep:0  nLegendre:6
+0.020759
+0.0357
+-0.01178
+-0.0017369
+0.00035478
+0
+temp:0  energy:2e+06  tempdep:0  nLegendre:6
+0.018161
+0.03648
+-0.013322
+-0.0010069
+0.00035306
+0
+temp:0  energy:2.02e+06  tempdep:0  nLegendre:6
+0.010797
+0.03894
+-0.018061
+0.0015711
+0.00033794
+0
+temp:0  energy:2.04e+06  tempdep:0  nLegendre:6
+-0.0020627
+0.046005
+-0.02688
+0.0079342
+0.00026785
+0
+temp:0  energy:2.06e+06  tempdep:0  nLegendre:4
+-0.035183
+0.0969151
+-0.049691
+0.03288
+temp:0  energy:2.07e+06  tempdep:0  nLegendre:6
+-0.060305
+0.27559
+-0.06113
+0.077912
+-0.0003519
+0
+temp:0  energy:2.08e+06  tempdep:0  nLegendre:6
+0.054072
+0.42562
+0.035823
+0.044666
+0.00052985
+0
+temp:0  energy:2.09e+06  tempdep:0  nLegendre:6
+0.077445
+0.19784
+0.044762
+-0.010256
+0.00094775
+0
+temp:0  energy:2.1e+06  tempdep:0  nLegendre:6
+0.063154
+0.12317
+0.030788
+-0.017406
+0.0009142
+0
+temp:0  energy:2.11e+06  tempdep:0  nLegendre:6
+0.052841
+0.09624
+0.022028
+-0.017897
+0.00087527
+0
+temp:0  energy:2.12e+06  tempdep:0  nLegendre:6
+0.045834
+0.0840151
+0.016513
+-0.017438
+0.00085294
+0
+temp:0  energy:2.13e+06  tempdep:0  nLegendre:6
+0.040733
+0.0776781
+0.012757
+-0.016914
+0.0008426
+0
+temp:0  energy:2.14e+06  tempdep:0  nLegendre:6
+0.03677
+0.074179
+0.010022
+-0.016482
+0.0008402
+0
+temp:0  energy:2.15e+06  tempdep:0  nLegendre:6
+0.033525
+0.072239
+0.0079238
+-0.016156
+0.00084324
+0
+temp:0  energy:2.3e+06  tempdep:0  nLegendre:6
+0.0062067
+0.0846971
+-0.0046031
+-0.016971
+0.0011097
+0
+temp:0  energy:2.45e+06  tempdep:0  nLegendre:6
+-0.015727
+0.11803
+-0.011828
+-0.020894
+0.0015418
+0
+temp:0  energy:2.6e+06  tempdep:0  nLegendre:6
+-0.036559
+0.16847
+-0.018632
+-0.025506
+0.0020407
+0
+temp:0  energy:2.75e+06  tempdep:0  nLegendre:6
+-0.047913
+0.24159
+-0.022075
+-0.029241
+0.0021029
+0
+temp:0  energy:2.78e+06  tempdep:0  nLegendre:6
+-0.043743
+0.25907
+-0.020197
+-0.030103
+0.0015532
+6.1947e-05
+temp:0  energy:2.8e+06  tempdep:0  nLegendre:6
+-0.028166
+0.26849
+-0.013528
+-0.032241
+-0.00021437
+0.00020818
+temp:0  energy:2.805e+06  tempdep:0  nLegendre:6
+-0.013929
+0.26828
+-0.0071639
+-0.034018
+-0.0017762
+0.0003361
+temp:0  energy:2.81e+06  tempdep:0  nLegendre:6
+0.030595
+0.26054
+0.01474
+-0.038154
+-0.0063259
+0.00071018
+temp:0  energy:2.815e+06  tempdep:0  nLegendre:6
+0.10102
+0.28222
+0.18667
+0.064051
+0.010858
+-0.0005477
+temp:0  energy:2.82e+06  tempdep:0  nLegendre:6
+-0.1161
+0.31003
+-0.041429
+-0.011141
+0.011611
+-0.00074585
+temp:0  energy:2.83e+06  tempdep:0  nLegendre:6
+-0.0767801
+0.30548
+-0.031554
+-0.021945
+0.0059704
+-0.0002935
+temp:0  energy:2.84e+06  tempdep:0  nLegendre:6
+-0.066288
+0.31086
+-0.027855
+-0.023491
+0.0047364
+-0.00019503
+temp:0  energy:2.88e+06  tempdep:0  nLegendre:6
+-0.046647
+0.34458
+-0.019399
+-0.021409
+0.0033409
+-9.9015e-05
+temp:0  energy:2.9e+06  tempdep:0  nLegendre:6
+-0.03385
+0.36445
+-0.013283
+-0.017719
+0.0028564
+-8.1989e-05
+temp:0  energy:2.92e+06  tempdep:0  nLegendre:6
+-0.012984
+0.3836
+-0.0030164
+-0.011111
+0.0021751
+-6.9374e-05
+temp:0  energy:2.94e+06  tempdep:0  nLegendre:6
+0.024035
+0.39194
+0.01578
+0.00094189
+0.0010389
+-6.0773e-05
+temp:0  energy:2.96e+06  tempdep:0  nLegendre:6
+0.0872751
+0.35021
+0.049476
+0.02166
+-0.00081547
+-6.5698e-05
+temp:0  energy:2.98e+06  tempdep:0  nLegendre:6
+0.14055
+0.18448
+0.0822601
+0.039004
+-0.0021678
+-0.00011007
+temp:0  energy:3e+06  tempdep:0  nLegendre:4
+0.0787231
+0.040297
+0.056224
+0.018446
+temp:0  energy:3.02e+06  tempdep:0  nLegendre:6
+-0.0048864
+0.0662141
+0.013522
+-0.0090949
+0.0026058
+-0.00016588
+temp:0  energy:3.04e+06  tempdep:0  nLegendre:6
+-0.045902
+0.12959
+-0.0089423
+-0.022539
+0.0038383
+-0.00015366
+temp:0  energy:3.08e+06  tempdep:0  nLegendre:6
+-0.070098
+0.21934
+-0.023488
+-0.030369
+0.0045766
+-0.00013402
+temp:0  energy:3.12e+06  tempdep:0  nLegendre:6
+-0.072297
+0.2716
+-0.025723
+-0.030953
+0.0046885
+-0.00012334
+temp:0  energy:3.2e+06  tempdep:0  nLegendre:6
+-0.062053
+0.33097
+-0.021337
+-0.027232
+0.0044871
+-0.00011382
+temp:0  energy:3.3e+06  tempdep:0  nLegendre:6
+-0.040777
+0.36825
+-0.010147
+-0.019502
+0.0038918
+-0.00011154
+temp:0  energy:3.4e+06  tempdep:0  nLegendre:6
+-0.016572
+0.3823
+0.0039313
+-0.010273
+0.0030287
+-0.00011634
+temp:0  energy:3.5e+06  tempdep:0  nLegendre:6
+0.0067391
+0.38034
+0.019113
+-0.00058746
+0.001975
+-0.00012861
+temp:0  energy:3.6e+06  tempdep:0  nLegendre:6
+0.026326
+0.36741
+0.034108
+0.0088341
+0.000805
+-0.00014952
+temp:0  energy:3.7e+06  tempdep:0  nLegendre:6
+0.040168
+0.34751
+0.048019
+0.017593
+-0.00042459
+-0.00018031
+temp:0  energy:3.8e+06  tempdep:0  nLegendre:6
+0.046705
+0.32332
+0.060218
+0.025589
+-0.0016814
+-0.00022222
+temp:0  energy:3.9e+06  tempdep:0  nLegendre:6
+0.044481
+0.29578
+0.0700071
+0.032971
+-0.0029549
+-0.00027657
+temp:0  energy:4e+06  tempdep:0  nLegendre:6
+0.033608
+0.2627
+0.07576
+0.040105
+-0.004239
+-0.0003441
+temp:0  energy:4.05e+06  tempdep:0  nLegendre:6
+0.028649
+0.24144
+0.075771
+0.043674
+-0.0048635
+-0.00038144
+temp:0  energy:4.1e+06  tempdep:0  nLegendre:6
+0.035068
+0.21374
+0.0722741
+0.047017
+-0.0054139
+-0.00041658
+temp:0  energy:4.15e+06  tempdep:0  nLegendre:6
+0.081827
+0.1773
+0.064112
+0.048987
+-0.0057314
+-0.00043758
+temp:0  energy:4.2e+06  tempdep:0  nLegendre:6
+0.21365
+0.14195
+0.055898
+0.046744
+-0.0055866
+-0.0004268
+temp:0  energy:4.25e+06  tempdep:0  nLegendre:6
+0.37952
+0.13808
+0.062233
+0.040288
+-0.005298
+-0.00040759
+temp:0  energy:4.3e+06  tempdep:0  nLegendre:6
+0.44461
+0.16064
+0.080988
+0.036307
+-0.0055954
+-0.0004356
+temp:0  energy:4.35e+06  tempdep:0  nLegendre:6
+0.4305
+0.1788
+0.097444
+0.036235
+-0.0063249
+-0.0005001
+temp:0  energy:4.4e+06  tempdep:0  nLegendre:6
+0.39809
+0.18667
+0.10869
+0.037708
+-0.0071495
+-0.00057577
+temp:0  energy:4.45e+06  tempdep:0  nLegendre:6
+0.36838
+0.18805
+0.1165
+0.03946
+-0.0079622
+-0.00065449
+temp:0  energy:4.5e+06  tempdep:0  nLegendre:6
+0.34466
+0.18601
+0.12236
+0.0411
+-0.0087514
+-0.00073543
+temp:0  energy:4.6e+06  tempdep:0  nLegendre:6
+0.31151
+0.17745
+0.13099
+0.043785
+-0.010298
+-0.00090741
+temp:0  energy:4.7e+06  tempdep:0  nLegendre:6
+0.28997
+0.16662
+0.13728
+0.045753
+-0.011871
+-0.0010993
+temp:0  energy:4.8e+06  tempdep:0  nLegendre:6
+0.27433
+0.15454
+0.14127
+0.0472
+-0.013551
+-0.0013199
+temp:0  energy:4.88e+06  tempdep:0  nLegendre:6
+0.2629
+0.14104
+0.13845
+0.048329
+-0.01513
+-0.0015339
+temp:0  energy:4.9e+06  tempdep:0  nLegendre:6
+0.25907
+0.13397
+0.13224
+0.048853
+-0.015677
+-0.0016052
+temp:0  energy:4.92e+06  tempdep:0  nLegendre:6
+0.25282
+0.11273
+0.10271
+0.050113
+-0.016651
+-0.0017219
+temp:0  energy:4.925e+06  tempdep:0  nLegendre:6
+0.25252
+0.095467
+0.071494
+0.050491
+-0.017088
+-0.0017714
+temp:0  energy:4.93e+06  tempdep:0  nLegendre:6
+0.2851
+0.069485
+-0.016901
+0.045508
+-0.016106
+-0.0016737
+temp:0  energy:4.935e+06  tempdep:0  nLegendre:6
+0.36293
+0.23091
+0.18762
+0.028516
+-0.0089499
+-0.00093233
+temp:0  energy:4.94e+06  tempdep:0  nLegendre:6
+0.29646
+0.19665
+0.20709
+0.040482
+-0.012977
+-0.0013551
+temp:0  energy:4.96e+06  tempdep:0  nLegendre:6
+0.26574
+0.15642
+0.1727
+0.046306
+-0.015567
+-0.0016416
+temp:0  energy:4.98e+06  tempdep:0  nLegendre:6
+0.26018
+0.14753
+0.16541
+0.047138
+-0.016277
+-0.0017332
+temp:0  energy:5e+06  tempdep:0  nLegendre:6
+0.246
+0.1244
+0.108
+0.04
+-0.003
+0
+temp:0  energy:5.2e+06  tempdep:0  nLegendre:6
+0.235
+0.1063
+0.0920001
+0.03716
+-0.00567
+0
+temp:0  energy:5.25e+06  tempdep:0  nLegendre:6
+0.234
+0.10295
+0.0770001
+0.03645
+-0.0065
+0
+temp:0  energy:5.285e+06  tempdep:0  nLegendre:6
+0.2396
+0.1006
+0.05
+0.03595
+-0.00708
+0
+temp:0  energy:5.3e+06  tempdep:0  nLegendre:6
+0.242
+0.1
+0.047
+0.03574
+-0.00733
+0
+temp:0  energy:5.32e+06  tempdep:0  nLegendre:6
+0.2932
+0.104
+0.04633
+0.03545
+-0.00767
+0
+temp:0  energy:5.325e+06  tempdep:0  nLegendre:6
+0.306
+0.117
+0.047
+0.03538
+-0.00775
+0
+temp:0  energy:5.35e+06  tempdep:0  nLegendre:6
+0.37
+0.182
+0.08013
+0.03472
+-0.00817
+0
+temp:0  energy:5.36e+06  tempdep:0  nLegendre:6
+0.381
+0.18467
+0.09338
+0.03445
+-0.00833
+0
+temp:0  energy:5.365e+06  tempdep:0  nLegendre:6
+0.3805
+0.186
+0.1
+0.03432
+-0.00842
+0
+temp:0  energy:5.38e+06  tempdep:0  nLegendre:6
+0.379
+0.19
+0.10943
+0.03392
+-0.00867
+0
+temp:0  energy:5.4e+06  tempdep:0  nLegendre:6
+0.3195
+0.18831
+0.122
+0.03339
+-0.009
+0
+temp:0  energy:5.42e+06  tempdep:0  nLegendre:6
+0.26
+0.18663
+0.1268
+0.03286
+-0.0096
+0
+temp:0  energy:5.47e+06  tempdep:0  nLegendre:6
+0.225
+0.18241
+0.1364
+0.03153
+-0.0111
+0
+temp:0  energy:5.5e+06  tempdep:0  nLegendre:6
+0.21862
+0.17987
+0.14
+0.03073
+-0.012
+0
+temp:0  energy:5.55e+06  tempdep:0  nLegendre:6
+0.208
+0.17566
+0.14025
+0.0294
+-0.0135
+0
+temp:0  energy:5.7e+06  tempdep:0  nLegendre:6
+0.19433
+0.163
+0.141
+0.0246
+-0.018
+0
+temp:0  energy:5.95e+06  tempdep:0  nLegendre:6
+0.17156
+0.1615
+0.144
+0.0166
+-0.028
+0
+temp:0  energy:6.05e+06  tempdep:0  nLegendre:6
+0.163
+0.163
+0.16
+0.014
+-0.03294
+0
+temp:0  energy:6.1e+06  tempdep:0  nLegendre:6
+0.155
+0.167
+0.179
+0.013
+-0.03588
+0.002
+temp:0  energy:6.15e+06  tempdep:0  nLegendre:6
+0.13692
+0.171
+0.198
+0.014
+-0.03882
+0.007
+temp:0  energy:6.185e+06  tempdep:0  nLegendre:6
+0.12427
+0.17931
+0.21641
+0.016
+-0.04
+0.01313
+temp:0  energy:6.2e+06  tempdep:0  nLegendre:6
+0.11885
+0.18287
+0.2243
+0.0208
+-0.04
+0.017
+temp:0  energy:6.21e+06  tempdep:0  nLegendre:6
+0.11523
+0.18525
+0.22956
+0.024
+-0.0384
+0.02
+temp:0  energy:6.225e+06  tempdep:0  nLegendre:6
+0.10981
+0.18881
+0.23744
+0.0468
+-0.036
+0.0245
+temp:0  energy:6.23e+06  tempdep:0  nLegendre:6
+0.108
+0.19
+0.24007
+0.0544
+-0.0297
+0.026
+temp:0  energy:6.25e+06  tempdep:0  nLegendre:6
+0.106
+0.205
+0.25059
+0.0848001
+-0.0045
+0.032
+temp:0  energy:6.26e+06  tempdep:0  nLegendre:6
+0.112
+0.2125
+0.25585
+0.1
+0.0081
+0.0328
+temp:0  energy:6.275e+06  tempdep:0  nLegendre:6
+0.1492
+0.2265
+0.26374
+0.1228
+0.027
+0.034
+temp:0  energy:6.285e+06  tempdep:0  nLegendre:6
+0.174
+0.2395
+0.269
+0.138
+0.0396
+0.0332
+temp:0  energy:6.3e+06  tempdep:0  nLegendre:6
+0.2112
+0.259
+0.268
+0.1608
+0.0585
+0.032
+temp:0  energy:6.31e+06  tempdep:0  nLegendre:6
+0.236
+0.272
+0.26734
+0.176
+0.0711
+0.0298
+temp:0  energy:6.32e+06  tempdep:0  nLegendre:6
+0.2608
+0.285
+0.26667
+0.182
+0.0837
+0.0276
+temp:0  energy:6.325e+06  tempdep:0  nLegendre:6
+0.2732
+0.287
+0.265
+0.182
+0.09
+0.0265
+temp:0  energy:6.34e+06  tempdep:0  nLegendre:6
+0.3104
+0.293
+0.235
+0.182
+0.0920001
+0.0232
+temp:0  energy:6.35e+06  tempdep:0  nLegendre:6
+0.3352
+0.291
+0.215
+0.182
+0.09
+0.021
+temp:0  energy:6.36e+06  tempdep:0  nLegendre:6
+0.36
+0.289
+0.2072
+0.178
+0.0835001
+0.0188
+temp:0  energy:6.39e+06  tempdep:0  nLegendre:6
+0.36261
+0.283
+0.1838
+0.15571
+0.064
+0.0122
+temp:0  energy:6.4e+06  tempdep:0  nLegendre:6
+0.36348
+0.27675
+0.176
+0.14759
+0.06136
+0.01
+temp:0  energy:6.43e+06  tempdep:0  nLegendre:6
+0.36609
+0.258
+0.171
+0.12324
+0.05345
+0.0034
+temp:0  energy:6.45e+06  tempdep:0  nLegendre:6
+0.36783
+0.25667
+0.1715
+0.107
+0.04818
+-0.001
+temp:0  energy:6.46e+06  tempdep:0  nLegendre:6
+0.368
+0.256
+0.17175
+0.1065
+0.04555
+-0.002
+temp:0  energy:6.47e+06  tempdep:0  nLegendre:6
+0.3885
+0.2685
+0.172
+0.106
+0.04291
+-0.003
+temp:0  energy:6.48e+06  tempdep:0  nLegendre:6
+0.409
+0.281
+0.17806
+0.1055
+0.04027
+-0.004
+temp:0  energy:6.49e+06  tempdep:0  nLegendre:6
+0.4295
+0.2935
+0.18413
+0.106
+0.03764
+-0.00433
+temp:0  energy:6.5e+06  tempdep:0  nLegendre:6
+0.45
+0.306
+0.19019
+0.1115
+0.035
+-0.00467
+temp:0  energy:6.53e+06  tempdep:0  nLegendre:6
+0.4515
+0.31
+0.21075
+0.128
+0.0296
+-0.00433
+temp:0  energy:6.54e+06  tempdep:0  nLegendre:6
+0.452
+0.309
+0.218
+0.129
+0.0278
+-0.004
+temp:0  energy:6.55e+06  tempdep:0  nLegendre:6
+0.45
+0.28583
+0.21867
+0.13
+0.026
+-0.0025
+temp:0  energy:6.57e+06  tempdep:0  nLegendre:6
+0.39
+0.2395
+0.22
+0.128
+0.0224
+0.0005
+temp:0  energy:6.6e+06  tempdep:0  nLegendre:6
+0.3
+0.17
+0.195
+0.11675
+0.017
+0.005
+temp:0  energy:6.61e+06  tempdep:0  nLegendre:6
+0.27
+0.16
+0.1898
+0.113
+0.0156
+0.006
+temp:0  energy:6.62e+06  tempdep:0  nLegendre:6
+0.26257
+0.15
+0.1846
+0.10925
+0.0142
+0.007
+temp:0  energy:6.65e+06  tempdep:0  nLegendre:6
+0.24029
+0.12
+0.169
+0.098
+0.01
+0.005
+temp:0  energy:6.68e+06  tempdep:0  nLegendre:6
+0.218
+0.105
+0.1534
+0.089
+0.0058
+0.0032
+temp:0  energy:6.7e+06  tempdep:0  nLegendre:6
+0.2138
+0.0950001
+0.143
+0.083
+0.003
+0.002
+temp:0  energy:6.73e+06  tempdep:0  nLegendre:6
+0.20751
+0.08
+0.1358
+0.074
+-0.0003
+0.00114
+temp:0  energy:6.8e+06  tempdep:0  nLegendre:6
+0.19987
+0.06483
+0.119
+0.057
+-0.008
+0
+temp:0  energy:6.85e+06  tempdep:0  nLegendre:6
+0.19644
+0.054
+0.11
+0.046
+-0.012
+0
+temp:0  energy:6.95e+06  tempdep:0  nLegendre:6
+0.19586
+0.045
+0.0870001
+0.031
+-0.014
+0
+temp:0  energy:6.97e+06  tempdep:0  nLegendre:6
+0.197
+0.0442
+0.0814
+0.0286
+-0.0142
+0
+temp:0  energy:7e+06  tempdep:0  nLegendre:6
+0.20675
+0.043
+0.073
+0.025
+-0.013
+0
+temp:0  energy:7.05e+06  tempdep:0  nLegendre:6
+0.223
+0.045
+0.0575
+0.021
+-0.01
+0
+temp:0  energy:7.11e+06  tempdep:0  nLegendre:6
+0.264
+0.0568
+0.04033
+0.019
+-0.0052
+0
+temp:0  energy:7.13e+06  tempdep:0  nLegendre:6
+0.29
+0.0644001
+0.037
+0.019
+-0.0036
+0
+temp:0  energy:7.15e+06  tempdep:0  nLegendre:6
+0.316
+0.0720001
+0.037
+0.019
+-0.002
+0
+temp:0  energy:7.16e+06  tempdep:0  nLegendre:6
+0.329
+0.0856001
+0.037
+0.0194
+-0.00105
+0
+temp:0  energy:7.17e+06  tempdep:0  nLegendre:6
+0.342
+0.0992001
+0.0395
+0.0198
+-0.0001
+0
+temp:0  energy:7.2e+06  tempdep:0  nLegendre:6
+0.40985
+0.14
+0.047
+0.021
+0.00275
+0
+temp:0  energy:7.25e+06  tempdep:0  nLegendre:6
+0.52292
+0.22667
+0.07
+0.023
+0.0075
+0
+temp:0  energy:7.3e+06  tempdep:0  nLegendre:6
+0.636
+0.31333
+0.1015
+0.026
+0.01225
+0
+temp:0  energy:7.325e+06  tempdep:0  nLegendre:6
+0.645
+0.35667
+0.11725
+0.0275
+0.01463
+0
+temp:0  energy:7.35e+06  tempdep:0  nLegendre:6
+0.637
+0.395
+0.133
+0.029
+0.017
+0
+temp:0  energy:7.39e+06  tempdep:0  nLegendre:6
+0.51433
+0.43
+0.1538
+0.033
+0.0202
+0
+temp:0  energy:7.4e+06  tempdep:0  nLegendre:6
+0.48367
+0.43
+0.159
+0.034
+0.021
+0
+temp:0  energy:7.44e+06  tempdep:0  nLegendre:6
+0.361
+0.44
+0.1742
+0.038
+0.0218
+0
+temp:0  energy:7.45e+06  tempdep:0  nLegendre:6
+0.35367
+0.442
+0.178
+0.039
+0.022
+0
+temp:0  energy:7.5e+06  tempdep:0  nLegendre:6
+0.317
+0.438
+0.1915
+0.048
+0.022
+0.00057
+temp:0  energy:7.55e+06  tempdep:0  nLegendre:6
+0.298
+0.418
+0.205
+0.06918
+0.022
+0.002
+temp:0  energy:7.58e+06  tempdep:0  nLegendre:6
+0.2866
+0.405
+0.21014
+0.08188
+0.0226
+0.0053
+temp:0  energy:7.6e+06  tempdep:0  nLegendre:6
+0.279
+0.40586
+0.21357
+0.09035
+0.023
+0.0075
+temp:0  energy:7.635e+06  tempdep:0  nLegendre:6
+0.2722
+0.40737
+0.21957
+0.10518
+0.03
+0.01135
+temp:0  energy:7.67e+06  tempdep:0  nLegendre:6
+0.268
+0.41956
+0.22557
+0.12
+0.04583
+0.01367
+temp:0  energy:7.7e+06  tempdep:0  nLegendre:6
+0.2701
+0.43
+0.23071
+0.1248
+0.05939
+0.0135
+temp:0  energy:7.74e+06  tempdep:0  nLegendre:6
+0.275
+0.4752
+0.23757
+0.12925
+0.0774801
+0.01069
+temp:0  energy:7.75e+06  tempdep:0  nLegendre:6
+0.28125
+0.4865
+0.23929
+0.12988
+0.0820001
+0.00954
+temp:0  energy:7.77e+06  tempdep:0  nLegendre:6
+0.29375
+0.5091
+0.24271
+0.13112
+0.0860001
+0.00723
+temp:0  energy:7.78e+06  tempdep:0  nLegendre:6
+0.3
+0.5204
+0.24443
+0.13175
+0.0860001
+0.00608
+temp:0  energy:7.79e+06  tempdep:0  nLegendre:6
+0.32091
+0.5317
+0.24614
+0.13238
+0.0860001
+0.00492
+temp:0  energy:7.8e+06  tempdep:0  nLegendre:6
+0.34182
+0.543
+0.24786
+0.133
+0.084
+0.00377
+temp:0  energy:7.81e+06  tempdep:0  nLegendre:6
+0.36273
+0.54767
+0.24957
+0.13307
+0.0820001
+0.00262
+temp:0  energy:7.83e+06  tempdep:0  nLegendre:6
+0.40455
+0.557
+0.253
+0.1332
+0.07433
+0.00031
+temp:0  energy:7.85e+06  tempdep:0  nLegendre:6
+0.44636
+0.55433
+0.25643
+0.13333
+0.06667
+-0.002
+temp:0  energy:8e+06  tempdep:0  nLegendre:6
+0.5
+0.5
+0.24
+0.1
+0.024
+-0.012
+temp:0  energy:8.15e+06  tempdep:0  nLegendre:6
+0.6337
+0.5299
+0.3526
+0.2108
+0.08
+0.008
+temp:0  energy:8.2e+06  tempdep:0  nLegendre:6
+0.6548
+0.536
+0.3612
+0.218
+0.08
+0.008
+temp:0  energy:8.25e+06  tempdep:0  nLegendre:6
+0.651
+0.5
+0.3523
+0.2067
+0.0662501
+0.00733
+temp:0  energy:8.35e+06  tempdep:0  nLegendre:6
+0.5674
+0.44
+0.3321
+0.1689
+0.04
+0.00511
+temp:0  energy:8.45e+06  tempdep:0  nLegendre:6
+0.5033
+0.407
+0.3187
+0.141
+0.03
+0.004
+temp:0  energy:8.5e+06  tempdep:0  nLegendre:6
+0.46
+0.36
+0.3
+0.11
+0.004
+0.001
+temp:0  energy:8.705e+06  tempdep:0  nLegendre:6
+0.3745
+0.3338
+0.3019
+0.1015
+0.01371
+0.01648
+temp:0  energy:9e+06  tempdep:0  nLegendre:6
+0.28
+0.23
+0.29
+0.09
+0.001
+0.005
+temp:0  energy:9.5e+06  tempdep:0  nLegendre:6
+0.46
+0.38
+0.31
+0.14
+0.04
+0.005
+temp:0  energy:1e+07  tempdep:0  nLegendre:6
+0.55
+0.42
+0.33
+0.15
+0.03
+0.006
+temp:0  energy:1.05e+07  tempdep:0  nLegendre:6
+0.53
+0.43
+0.33
+0.13
+0.04
+0.035
+temp:0  energy:1.1e+07  tempdep:0  nLegendre:6
+0.6
+0.46
+0.32
+0.13
+0.04
+0.01
+temp:0  energy:1.15e+07  tempdep:0  nLegendre:6
+0.56
+0.44
+0.31
+0.14
+0.03
+0.02
+temp:0  energy:1.2e+07  tempdep:0  nLegendre:6
+0.54
+0.41
+0.32
+0.14
+0.05
+0.03
+temp:0  energy:1.25e+07  tempdep:0  nLegendre:6
+0.51
+0.4
+0.32
+0.16
+0.05
+0.02
+temp:0  energy:1.3e+07  tempdep:0  nLegendre:6
+0.58
+0.46
+0.35
+0.18
+0.07
+0.03
+temp:0  energy:1.35e+07  tempdep:0  nLegendre:6
+0.57
+0.44
+0.34
+0.18
+0.06
+0.02
+temp:0  energy:1.4e+07  tempdep:0  nLegendre:6
+0.6
+0.45
+0.32
+0.2
+0.07
+0.04
+temp:0  energy:1.45e+07  tempdep:0  nLegendre:6
+0.59
+0.47
+0.32
+0.2
+0.08
+0.04
+temp:0  energy:1.5e+07  tempdep:0  nLegendre:6
+0.63
+0.46
+0.31
+0.2
+0.09
+0.047
+temp:0  energy:1.6e+07  tempdep:0  nLegendre:6
+0.66
+0.48
+0.32
+0.21
+0.1
+0.02
+temp:0  energy:1.7e+07  tempdep:0  nLegendre:6
+0.68
+0.49
+0.33
+0.2
+0.107
+0.05
+temp:0  energy:1.8e+07  tempdep:0  nLegendre:6
+0.7
+0.49
+0.33
+0.2
+0.111
+0.05
+temp:0  energy:1.9e+07  tempdep:0  nLegendre:6
+0.72
+0.51
+0.35
+0.2
+0.112
+0.043
+temp:0  energy:2e+07  tempdep:0  nLegendre:6
+0.73
+0.52
+0.35
+0.2
+0.113
+0.04
+nEnergy_Prob:17
+nRanges:1
+17 2
+temp:0  energy:2e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:0.0291844
+costh:-0.999391  prob:0.0290524
+costh:-0.997564  prob:0.0286642
+costh:-0.994522  prob:0.0280396
+costh:-0.990268  prob:0.0272093
+costh:-0.984808  prob:0.0262156
+costh:-0.978148  prob:0.025106
+costh:-0.970296  prob:0.0239349
+costh:-0.961262  prob:0.0227568
+costh:-0.951057  prob:0.0216246
+costh:-0.939693  prob:0.0205855
+costh:-0.927184  prob:0.0196809
+costh:-0.913545  prob:0.018941
+costh:-0.898794  prob:0.0183868
+costh:-0.882948  prob:0.0180267
+costh:-0.866025  prob:0.0178576
+costh:-0.848048  prob:0.0178666
+costh:-0.829038  prob:0.0180332
+costh:-0.809017  prob:0.0183298
+costh:-0.788011  prob:0.018727
+costh:-0.766044  prob:0.019196
+costh:-0.743145  prob:0.0197117
+costh:-0.71934  prob:0.0202588
+costh:-0.694658  prob:0.020831
+costh:-0.669131  prob:0.021435
+costh:-0.642788  prob:0.0220955
+costh:-0.615662  prob:0.0228516
+costh:-0.587785  prob:0.0237574
+costh:-0.559193  prob:0.0248856
+costh:-0.529919  prob:0.0263181
+costh:-0.5  prob:0.0281485
+costh:-0.469472  prob:0.030474
+costh:-0.438371  prob:0.0333929
+costh:-0.406737  prob:0.0369985
+costh:-0.374607  prob:0.0413716
+costh:-0.34202  prob:0.0465757
+costh:-0.309017  prob:0.0526503
+costh:-0.275637  prob:0.0596078
+costh:-0.241922  prob:0.0674226
+costh:-0.207912  prob:0.0760458
+costh:-0.173648  prob:0.085361
+costh:-0.139173  prob:0.0952398
+costh:-0.104528  prob:0.105497
+costh:-0.0697565  prob:0.11592
+costh:-0.0348995  prob:0.12626
+costh:-2.32051e-08  prob:0.136248
+costh:0.0348995  prob:0.145595
+costh:0.0697565  prob:0.154014
+costh:0.104528  prob:0.161234
+costh:0.139173  prob:0.167006
+costh:0.173648  prob:0.171145
+costh:0.207912  prob:0.173534
+costh:0.241922  prob:0.17415
+costh:0.275637  prob:0.173093
+costh:0.309017  prob:0.170613
+costh:0.34202  prob:0.167147
+costh:0.374607  prob:0.163328
+costh:0.406737  prob:0.160029
+costh:0.438371  prob:0.158357
+costh:0.469472  prob:0.159709
+costh:0.5  prob:0.165756
+costh:0.529919  prob:0.178435
+costh:0.559193  prob:0.199987
+costh:0.587785  prob:0.232865
+costh:0.615661  prob:0.279762
+costh:0.642788  prob:0.34352
+costh:0.669131  prob:0.427067
+costh:0.694658  prob:0.533314
+costh:0.71934  prob:0.665065
+costh:0.743145  prob:0.824908
+costh:0.766044  prob:1.01506
+costh:0.788011  prob:1.23711
+costh:0.809017  prob:1.49215
+costh:0.829038  prob:1.78032
+costh:0.848048  prob:2.10097
+costh:0.866025  prob:2.45218
+costh:0.882948  prob:2.83106
+costh:0.898794  prob:3.23351
+costh:0.913545  prob:3.6543
+costh:0.927184  prob:4.087
+costh:0.939693  prob:4.52431
+costh:0.951057  prob:4.95803
+costh:0.961262  prob:5.37946
+costh:0.970296  prob:5.77936
+costh:0.978148  prob:6.14876
+costh:0.984808  prob:6.47895
+costh:0.990268  prob:6.76148
+costh:0.994522  prob:6.98955
+costh:0.997564  prob:7.15676
+costh:0.999391  prob:7.25863
+costh:1  prob:7.29322
+temp:0  energy:2.3e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:0.0143276
+costh:-0.999391  prob:0.0142594
+costh:-0.997564  prob:0.0140587
+costh:-0.994522  prob:0.0137403
+costh:-0.990268  prob:0.0133251
+costh:-0.984808  prob:0.0128424
+costh:-0.978148  prob:0.0123238
+costh:-0.970296  prob:0.0118061
+costh:-0.961262  prob:0.0113227
+costh:-0.951057  prob:0.0109068
+costh:-0.939693  prob:0.010585
+costh:-0.927184  prob:0.0103777
+costh:-0.913545  prob:0.0102963
+costh:-0.898794  prob:0.0103433
+costh:-0.882948  prob:0.0105121
+costh:-0.866025  prob:0.0107869
+costh:-0.848048  prob:0.0111438
+costh:-0.829038  prob:0.0115544
+costh:-0.809017  prob:0.0119854
+costh:-0.788011  prob:0.0124053
+costh:-0.766044  prob:0.0127821
+costh:-0.743145  prob:0.0130913
+costh:-0.71934  prob:0.0133165
+costh:-0.694658  prob:0.0134516
+costh:-0.669131  prob:0.0135032
+costh:-0.642788  prob:0.0134933
+costh:-0.615662  prob:0.0134582
+costh:-0.587785  prob:0.0134483
+costh:-0.559193  prob:0.0135304
+costh:-0.529919  prob:0.0137819
+costh:-0.5  prob:0.0142899
+costh:-0.469472  prob:0.015148
+costh:-0.438371  prob:0.0164545
+costh:-0.406737  prob:0.018304
+costh:-0.374607  prob:0.0207852
+costh:-0.34202  prob:0.0239783
+costh:-0.309017  prob:0.0279454
+costh:-0.275637  prob:0.032731
+costh:-0.241922  prob:0.0383555
+costh:-0.207912  prob:0.0448138
+costh:-0.173648  prob:0.052068
+costh:-0.139173  prob:0.0600506
+costh:-0.104528  prob:0.0686616
+costh:-0.0697565  prob:0.07776
+costh:-0.0348995  prob:0.0871828
+costh:-2.32051e-08  prob:0.096738
+costh:0.0348995  prob:0.106194
+costh:0.0697565  prob:0.115312
+costh:0.104528  prob:0.123841
+costh:0.139173  prob:0.131535
+costh:0.173648  prob:0.138151
+costh:0.207912  prob:0.143489
+costh:0.241922  prob:0.147408
+costh:0.275637  prob:0.149832
+costh:0.309017  prob:0.150818
+costh:0.34202  prob:0.150547
+costh:0.374607  prob:0.149375
+costh:0.406737  prob:0.147898
+costh:0.438371  prob:0.146945
+costh:0.469472  prob:0.14764
+costh:0.5  prob:0.151447
+costh:0.529919  prob:0.160175
+costh:0.559193  prob:0.176021
+costh:0.587785  prob:0.201542
+costh:0.615661  prob:0.239677
+costh:0.642788  prob:0.293691
+costh:0.669131  prob:0.36714
+costh:0.694658  prob:0.463739
+costh:0.71934  prob:0.587309
+costh:0.743145  prob:0.741577
+costh:0.766044  prob:0.930033
+costh:0.788011  prob:1.1557
+costh:0.809017  prob:1.42105
+costh:0.829038  prob:1.72743
+costh:0.848048  prob:2.07534
+costh:0.866025  prob:2.46384
+costh:0.882948  prob:2.89042
+costh:0.898794  prob:3.35124
+costh:0.913545  prob:3.84038
+costh:0.927184  prob:4.35066
+costh:0.939693  prob:4.87306
+costh:0.951057  prob:5.39731
+costh:0.961262  prob:5.91209
+costh:0.970296  prob:6.40534
+costh:0.978148  prob:6.86483
+costh:0.984808  prob:7.27804
+costh:0.990268  prob:7.63362
+costh:0.994522  prob:7.92234
+costh:0.997564  prob:8.1349
+costh:0.999391  prob:8.26469
+costh:1  prob:8.30839
+temp:0  energy:2.7e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:0.00664192
+costh:-0.999391  prob:0.00659319
+costh:-0.997564  prob:0.00645081
+costh:-0.994522  prob:0.00622605
+costh:-0.990268  prob:0.00593693
+costh:-0.984808  prob:0.00560673
+costh:-0.978148  prob:0.00526253
+costh:-0.970296  prob:0.00493328
+costh:-0.961262  prob:0.00464784
+costh:-0.951057  prob:0.00443297
+costh:-0.939693  prob:0.00431162
+costh:-0.927184  prob:0.00430111
+costh:-0.913545  prob:0.0044123
+costh:-0.898794  prob:0.00464832
+costh:-0.882948  prob:0.0050046
+costh:-0.866025  prob:0.00546893
+costh:-0.848048  prob:0.00602205
+costh:-0.829038  prob:0.00663906
+costh:-0.809017  prob:0.00729081
+costh:-0.788011  prob:0.00794536
+costh:-0.766044  prob:0.00857123
+costh:-0.743145  prob:0.00913842
+costh:-0.71934  prob:0.00962097
+costh:-0.694658  prob:0.00999909
+costh:-0.669131  prob:0.0102619
+costh:-0.642788  prob:0.0104059
+costh:-0.615662  prob:0.010438
+costh:-0.587785  prob:0.0103772
+costh:-0.559193  prob:0.0102517
+costh:-0.529919  prob:0.0101028
+costh:-0.5  prob:0.0099793
+costh:-0.469472  prob:0.00994108
+costh:-0.438371  prob:0.0100564
+costh:-0.406737  prob:0.0103997
+costh:-0.374607  prob:0.0110488
+costh:-0.34202  prob:0.012087
+costh:-0.309017  prob:0.0135954
+costh:-0.275637  prob:0.0156518
+costh:-0.241922  prob:0.0183315
+costh:-0.207912  prob:0.0216956
+costh:-0.173648  prob:0.0257976
+costh:-0.139173  prob:0.0306689
+costh:-0.104528  prob:0.0363244
+costh:-0.0697565  prob:0.0427504
+costh:-0.0348995  prob:0.0499074
+costh:-2.32051e-08  prob:0.0577204
+costh:0.0348995  prob:0.0660821
+costh:0.0697565  prob:0.0748464
+costh:0.104528  prob:0.0838354
+costh:0.139173  prob:0.0928312
+costh:0.173648  prob:0.101602
+costh:0.207912  prob:0.109881
+costh:0.241922  prob:0.11743
+costh:0.275637  prob:0.124003
+costh:0.309017  prob:0.129422
+costh:0.34202  prob:0.133592
+costh:0.374607  prob:0.136527
+costh:0.406737  prob:0.138438
+costh:0.438371  prob:0.139734
+costh:0.469472  prob:0.141134
+costh:0.5  prob:0.143687
+costh:0.529919  prob:0.148861
+costh:0.559193  prob:0.158586
+costh:0.587785  prob:0.175308
+costh:0.615661  prob:0.202009
+costh:0.642788  prob:0.242231
+costh:0.669131  prob:0.300041
+costh:0.694658  prob:0.380007
+costh:0.71934  prob:0.487055
+costh:0.743145  prob:0.626359
+costh:0.766044  prob:0.803135
+costh:0.788011  prob:1.02236
+costh:0.809017  prob:1.28862
+costh:0.829038  prob:1.60545
+costh:0.848048  prob:1.97539
+costh:0.866025  prob:2.39924
+costh:0.882948  prob:2.87619
+costh:0.898794  prob:3.4029
+costh:0.913545  prob:3.97377
+costh:0.927184  prob:4.58061
+costh:0.939693  prob:5.21284
+costh:0.951057  prob:5.85749
+costh:0.961262  prob:6.49954
+costh:0.970296  prob:7.12222
+costh:0.978148  prob:7.7092
+costh:0.984808  prob:8.24226
+costh:0.990268  prob:8.70502
+costh:0.994522  prob:9.08177
+costh:0.997564  prob:9.36092
+costh:0.999391  prob:9.53292
+costh:1  prob:9.59026
+temp:0  energy:3e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:0.00530095
+costh:-0.999391  prob:0.00524834
+costh:-0.997564  prob:0.00509406
+costh:-0.994522  prob:0.00484846
+costh:-0.990268  prob:0.00452828
+costh:-0.984808  prob:0.00415519
+costh:-0.978148  prob:0.00375468
+costh:-0.970296  prob:0.00335431
+costh:-0.961262  prob:0.00298208
+costh:-0.951057  prob:0.00266466
+costh:-0.939693  prob:0.00242586
+costh:-0.927184  prob:0.00228526
+costh:-0.913545  prob:0.00225698
+costh:-0.898794  prob:0.00234893
+costh:-0.882948  prob:0.00256278
+costh:-0.866025  prob:0.00289324
+costh:-0.848048  prob:0.003329
+costh:-0.829038  prob:0.00385309
+costh:-0.809017  prob:0.00444419
+costh:-0.788011  prob:0.00507754
+costh:-0.766044  prob:0.00572664
+costh:-0.743145  prob:0.00636461
+costh:-0.71934  prob:0.0069657
+costh:-0.694658  prob:0.00750695
+costh:-0.669131  prob:0.00796852
+costh:-0.642788  prob:0.00833649
+costh:-0.615662  prob:0.00860307
+costh:-0.587785  prob:0.00876685
+costh:-0.559193  prob:0.00883351
+costh:-0.529919  prob:0.00881648
+costh:-0.5  prob:0.0087392
+costh:-0.469472  prob:0.00863285
+costh:-0.438371  prob:0.00853572
+costh:-0.406737  prob:0.00849814
+costh:-0.374607  prob:0.00857471
+costh:-0.34202  prob:0.00883208
+costh:-0.309017  prob:0.00934186
+costh:-0.275637  prob:0.0101814
+costh:-0.241922  prob:0.011432
+costh:-0.207912  prob:0.0131769
+costh:-0.173648  prob:0.0154982
+costh:-0.139173  prob:0.0184718
+costh:-0.104528  prob:0.0221628
+costh:-0.0697565  prob:0.0266239
+costh:-0.0348995  prob:0.0318833
+costh:-2.32051e-08  prob:0.0379446
+costh:0.0348995  prob:0.044778
+costh:0.0697565  prob:0.0523154
+costh:0.104528  prob:0.0604498
+costh:0.139173  prob:0.0690288
+costh:0.173648  prob:0.077863
+costh:0.207912  prob:0.0867114
+costh:0.241922  prob:0.0953329
+costh:0.275637  prob:0.103443
+costh:0.309017  prob:0.110796
+costh:0.34202  prob:0.117177
+costh:0.374607  prob:0.122438
+costh:0.406737  prob:0.126572
+costh:0.438371  prob:0.129748
+costh:0.469472  prob:0.132386
+costh:0.5  prob:0.135229
+costh:0.529919  prob:0.139419
+costh:0.559193  prob:0.14658
+costh:0.587785  prob:0.158895
+costh:0.615661  prob:0.179173
+costh:0.642788  prob:0.210901
+costh:0.669131  prob:0.258283
+costh:0.694658  prob:0.326199
+costh:0.71934  prob:0.420178
+costh:0.743145  prob:0.546268
+costh:0.766044  prob:0.710849
+costh:0.788011  prob:0.92036
+costh:0.809017  prob:1.18106
+costh:0.829038  prob:1.49841
+costh:0.848048  prob:1.87695
+costh:0.866025  prob:2.31951
+costh:0.882948  prob:2.82667
+costh:0.898794  prob:3.39663
+costh:0.913545  prob:4.02439
+costh:0.927184  prob:4.70185
+costh:0.939693  prob:5.4173
+costh:0.951057  prob:6.15602
+costh:0.961262  prob:6.90019
+costh:0.970296  prob:7.62961
+costh:0.978148  prob:8.32231
+costh:0.984808  prob:8.95687
+costh:0.990268  prob:9.51131
+costh:0.994522  prob:9.96507
+costh:0.997564  prob:10.3026
+costh:0.999391  prob:10.511
+costh:1  prob:10.5812
+temp:0  energy:3.5e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:0.00440791
+costh:-0.999391  prob:0.00436385
+costh:-0.997564  prob:0.004234
+costh:-0.994522  prob:0.00402524
+costh:-0.990268  prob:0.00374834
+costh:-0.984808  prob:0.00341779
+costh:-0.978148  prob:0.00305055
+costh:-0.970296  prob:0.00266528
+costh:-0.961262  prob:0.00228123
+costh:-0.951057  prob:0.00191761
+costh:-0.939693  prob:0.00159204
+costh:-0.927184  prob:0.00132021
+costh:-0.913545  prob:0.00111507
+costh:-0.898794  prob:0.000986357
+costh:-0.882948  prob:0.000940692
+costh:-0.866025  prob:0.000980831
+costh:-0.848048  prob:0.00110662
+costh:-0.829038  prob:0.00131429
+costh:-0.809017  prob:0.00159787
+costh:-0.788011  prob:0.00194861
+costh:-0.766044  prob:0.00235614
+costh:-0.743145  prob:0.00280849
+costh:-0.71934  prob:0.00329269
+costh:-0.694658  prob:0.00379493
+costh:-0.669131  prob:0.00430115
+costh:-0.642788  prob:0.00479686
+costh:-0.615662  prob:0.00526802
+costh:-0.587785  prob:0.00570087
+costh:-0.559193  prob:0.00608284
+costh:-0.529919  prob:0.00640303
+costh:-0.5  prob:0.00665346
+costh:-0.469472  prob:0.00682982
+costh:-0.438371  prob:0.00693312
+costh:-0.406737  prob:0.00697126
+costh:-0.374607  prob:0.00696037
+costh:-0.34202  prob:0.00692691
+costh:-0.309017  prob:0.00690818
+costh:-0.275637  prob:0.006954
+costh:-0.241922  prob:0.00712645
+costh:-0.207912  prob:0.00749944
+costh:-0.173648  prob:0.00815748
+costh:-0.139173  prob:0.00919202
+costh:-0.104528  prob:0.0107009
+costh:-0.0697565  prob:0.0127807
+costh:-0.0348995  prob:0.015523
+costh:-2.32051e-08  prob:0.0190057
+costh:0.0348995  prob:0.023289
+costh:0.0697565  prob:0.0284049
+costh:0.104528  prob:0.0343514
+costh:0.139173  prob:0.0410828
+costh:0.173648  prob:0.0485104
+costh:0.207912  prob:0.0564952
+costh:0.241922  prob:0.0648531
+costh:0.275637  prob:0.0733581
+costh:0.309017  prob:0.081759
+costh:0.34202  prob:0.089779
+costh:0.374607  prob:0.0971851
+costh:0.406737  prob:0.103763
+costh:0.438371  prob:0.109426
+costh:0.469472  prob:0.114231
+costh:0.5  prob:0.11849
+costh:0.529919  prob:0.122826
+costh:0.559193  prob:0.128299
+costh:0.587785  prob:0.136511
+costh:0.615661  prob:0.149727
+costh:0.642788  prob:0.170985
+costh:0.669131  prob:0.204225
+costh:0.694658  prob:0.254364
+costh:0.71934  prob:0.327358
+costh:0.743145  prob:0.430154
+costh:0.766044  prob:0.570632
+costh:0.788011  prob:0.757404
+costh:0.809017  prob:0.999481
+costh:0.829038  prob:1.3057
+costh:0.848048  prob:1.68444
+costh:0.866025  prob:2.14255
+costh:0.882948  prob:2.6847
+costh:0.898794  prob:3.31257
+costh:0.913545  prob:4.02394
+costh:0.927184  prob:4.81198
+costh:0.939693  prob:5.66465
+costh:0.951057  prob:6.56473
+costh:0.961262  prob:7.48977
+costh:0.970296  prob:8.41305
+costh:0.978148  prob:9.30408
+costh:0.984808  prob:10.1306
+costh:0.990268  prob:10.8605
+costh:0.994522  prob:11.4645
+costh:0.997564  prob:11.9157
+costh:0.999391  prob:12.1951
+costh:1  prob:12.2904
+temp:0  energy:4e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:0.00296644
+costh:-0.999391  prob:0.00294254
+costh:-0.997564  prob:0.00287193
+costh:-0.994522  prob:0.00275771
+costh:-0.990268  prob:0.00260491
+costh:-0.984808  prob:0.00242017
+costh:-0.978148  prob:0.00221101
+costh:-0.970296  prob:0.0019861
+costh:-0.961262  prob:0.00175396
+costh:-0.951057  prob:0.00152343
+costh:-0.939693  prob:0.00130245
+costh:-0.927184  prob:0.00109859
+costh:-0.913545  prob:0.000918285
+costh:-0.898794  prob:0.000767041
+costh:-0.882948  prob:0.000649492
+costh:-0.866025  prob:0.00056937
+costh:-0.848048  prob:0.000529771
+costh:-0.829038  prob:0.000533209
+costh:-0.809017  prob:0.000581824
+costh:-0.788011  prob:0.000677392
+costh:-0.766044  prob:0.000821299
+costh:-0.743145  prob:0.00101439
+costh:-0.71934  prob:0.00125675
+costh:-0.694658  prob:0.00154725
+costh:-0.669131  prob:0.0018832
+costh:-0.642788  prob:0.00225982
+costh:-0.615662  prob:0.00267007
+costh:-0.587785  prob:0.00310448
+costh:-0.559193  prob:0.00355086
+costh:-0.529919  prob:0.00399509
+costh:-0.5  prob:0.00442161
+costh:-0.469472  prob:0.00481416
+costh:-0.438371  prob:0.00515723
+costh:-0.406737  prob:0.00543767
+costh:-0.374607  prob:0.0056464
+costh:-0.34202  prob:0.00578075
+costh:-0.309017  prob:0.00584617
+costh:-0.275637  prob:0.00585899
+costh:-0.241922  prob:0.00584809
+costh:-0.207912  prob:0.00585622
+costh:-0.173648  prob:0.0059411
+costh:-0.139173  prob:0.00617482
+costh:-0.104528  prob:0.00664243
+costh:-0.0697565  prob:0.00743886
+costh:-0.0348995  prob:0.00866458
+costh:-2.32051e-08  prob:0.0104214
+costh:0.0348995  prob:0.0128057
+costh:0.0697565  prob:0.0158993
+costh:0.104528  prob:0.0197654
+costh:0.139173  prob:0.0244398
+costh:0.173648  prob:0.029921
+costh:0.207912  prob:0.0361662
+costh:0.241922  prob:0.0430848
+costh:0.275637  prob:0.0505383
+costh:0.309017  prob:0.0583443
+costh:0.34202  prob:0.0662834
+costh:0.374607  prob:0.0741177
+costh:0.406737  prob:0.08161
+costh:0.438371  prob:0.0885662
+costh:0.469472  prob:0.0948642
+costh:0.5  prob:0.100533
+costh:0.529919  prob:0.105833
+costh:0.559193  prob:0.111334
+costh:0.587785  prob:0.118085
+costh:0.615661  prob:0.127688
+costh:0.642788  prob:0.142531
+costh:0.669131  prob:0.165937
+costh:0.694658  prob:0.202316
+costh:0.71934  prob:0.257404
+costh:0.743145  prob:0.338331
+costh:0.766044  prob:0.4537
+costh:0.788011  prob:0.613566
+costh:0.809017  prob:0.829216
+costh:0.829038  prob:1.11276
+costh:0.848048  prob:1.47655
+costh:0.866025  prob:1.93225
+costh:0.882948  prob:2.48985
+costh:0.898794  prob:3.15622
+costh:0.913545  prob:3.93395
+costh:0.927184  prob:4.81978
+costh:0.939693  prob:5.8034
+costh:0.951057  prob:6.8665
+costh:0.961262  prob:7.98304
+costh:0.970296  prob:9.11912
+costh:0.978148  prob:10.2337
+costh:0.984808  prob:11.2836
+costh:0.990268  prob:12.2228
+costh:0.994522  prob:13.007
+costh:0.997564  prob:13.5974
+costh:0.999391  prob:13.9646
+costh:1  prob:14.0887
+temp:0  energy:5e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:0.000484284
+costh:-0.999391  prob:0.000484172
+costh:-0.997564  prob:0.000483888
+costh:-0.994522  prob:0.000483626
+costh:-0.990268  prob:0.000483707
+costh:-0.984808  prob:0.000484476
+costh:-0.978148  prob:0.000486271
+costh:-0.970296  prob:0.000489271
+costh:-0.961262  prob:0.000493356
+costh:-0.951057  prob:0.000498109
+costh:-0.939693  prob:0.000502781
+costh:-0.927184  prob:0.00050638
+costh:-0.913545  prob:0.000507748
+costh:-0.898794  prob:0.00050568
+costh:-0.882948  prob:0.000499072
+costh:-0.866025  prob:0.000487072
+costh:-0.848048  prob:0.000469324
+costh:-0.829038  prob:0.000446184
+costh:-0.809017  prob:0.000418981
+costh:-0.788011  prob:0.000390105
+costh:-0.766044  prob:0.000363124
+costh:-0.743145  prob:0.000342731
+costh:-0.71934  prob:0.000334582
+costh:-0.694658  prob:0.000345063
+costh:-0.669131  prob:0.000380882
+costh:-0.642788  prob:0.000448617
+costh:-0.615662  prob:0.000554097
+costh:-0.587785  prob:0.000701903
+costh:-0.559193  prob:0.000894863
+costh:-0.529919  prob:0.00113366
+costh:-0.5  prob:0.00141623
+costh:-0.469472  prob:0.00173804
+costh:-0.438371  prob:0.00209116
+costh:-0.406737  prob:0.00246424
+costh:-0.374607  prob:0.00284301
+costh:-0.34202  prob:0.00321082
+costh:-0.309017  prob:0.00354996
+costh:-0.275637  prob:0.00384348
+costh:-0.241922  prob:0.00407832
+costh:-0.207912  prob:0.00424779
+costh:-0.173648  prob:0.00435471
+costh:-0.139173  prob:0.00441401
+costh:-0.104528  prob:0.00445495
+costh:-0.0697565  prob:0.00452266
+costh:-0.0348995  prob:0.00467875
+costh:-2.32051e-08  prob:0.00500147
+costh:0.0348995  prob:0.00558425
+costh:0.0697565  prob:0.00653161
+costh:0.104528  prob:0.00795301
+costh:0.139173  prob:0.00995336
+costh:0.173648  prob:0.0126227
+costh:0.207912  prob:0.0160272
+costh:0.241922  prob:0.020195
+costh:0.275637  prob:0.0251127
+costh:0.309017  prob:0.0307187
+costh:0.34202  prob:0.0369003
+costh:0.374607  prob:0.0434964
+costh:0.406737  prob:0.0503085
+costh:0.438371  prob:0.0571195
+costh:0.469472  prob:0.0637238
+costh:0.5  prob:0.0699724
+costh:0.529919  prob:0.0758256
+costh:0.559193  prob:0.0814194
+costh:0.587785  prob:0.0871612
+costh:0.615661  prob:0.0938364
+costh:0.642788  prob:0.102774
+costh:0.669131  prob:0.116021
+costh:0.694658  prob:0.136626
+costh:0.71934  prob:0.168928
+costh:0.743145  prob:0.218866
+costh:0.766044  prob:0.294405
+costh:0.788011  prob:0.405896
+costh:0.809017  prob:0.566371
+costh:0.829038  prob:0.791714
+costh:0.848048  prob:1.10041
+costh:0.866025  prob:1.51312
+costh:0.882948  prob:2.05122
+costh:0.898794  prob:2.73527
+costh:0.913545  prob:3.58259
+costh:0.927184  prob:4.60395
+costh:0.939693  prob:5.80034
+costh:0.951057  prob:7.15981
+costh:0.961262  prob:8.65439
+costh:0.970296  prob:10.2388
+costh:0.978148  prob:11.8534
+costh:0.984808  prob:13.4215
+costh:0.990268  prob:14.8607
+costh:0.994522  prob:16.0881
+costh:0.997564  prob:17.0276
+costh:0.999391  prob:17.6175
+costh:1  prob:17.8182
+temp:0  energy:6e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:1.8254e-05
+costh:-0.999391  prob:1.89151e-05
+costh:-0.997564  prob:2.09671e-05
+costh:-0.994522  prob:2.45919e-05
+costh:-0.990268  prob:3.00216e-05
+costh:-0.984808  prob:3.74763e-05
+costh:-0.978148  prob:4.71551e-05
+costh:-0.970296  prob:5.92385e-05
+costh:-0.961262  prob:7.388e-05
+costh:-0.951057  prob:9.11413e-05
+costh:-0.939693  prob:0.0001109
+costh:-0.927184  prob:0.000132765
+costh:-0.913545  prob:0.000156086
+costh:-0.898794  prob:0.00018001
+costh:-0.882948  prob:0.000203515
+costh:-0.866025  prob:0.000225546
+costh:-0.848048  prob:0.000244935
+costh:-0.829038  prob:0.000260529
+costh:-0.809017  prob:0.000271255
+costh:-0.788011  prob:0.000276416
+costh:-0.766044  prob:0.00027574
+costh:-0.743145  prob:0.000269646
+costh:-0.71934  prob:0.000259214
+costh:-0.694658  prob:0.000246226
+costh:-0.669131  prob:0.000233202
+costh:-0.642788  prob:0.000223433
+costh:-0.615662  prob:0.000221037
+costh:-0.587785  prob:0.000230928
+costh:-0.559193  prob:0.000258784
+costh:-0.529919  prob:0.000310858
+costh:-0.5  prob:0.000393772
+costh:-0.469472  prob:0.000513856
+costh:-0.438371  prob:0.000676123
+costh:-0.406737  prob:0.000883066
+costh:-0.374607  prob:0.00113345
+costh:-0.34202  prob:0.00142177
+costh:-0.309017  prob:0.00173829
+costh:-0.275637  prob:0.00206968
+costh:-0.241922  prob:0.00239996
+costh:-0.207912  prob:0.00271157
+costh:-0.173648  prob:0.00298631
+costh:-0.139173  prob:0.00320761
+costh:-0.104528  prob:0.00336391
+costh:-0.0697565  prob:0.00345335
+costh:-0.0348995  prob:0.0034896
+costh:-2.32051e-08  prob:0.00350656
+costh:0.0348995  prob:0.00356235
+costh:0.0697565  prob:0.00373904
+costh:0.104528  prob:0.00414034
+costh:0.139173  prob:0.00488692
+costh:0.173648  prob:0.00610877
+costh:0.207912  prob:0.00793479
+costh:0.241922  prob:0.0104779
+costh:0.275637  prob:0.0138171
+costh:0.309017  prob:0.0179752
+costh:0.34202  prob:0.0229061
+costh:0.374607  prob:0.0284845
+costh:0.406737  prob:0.0345126
+costh:0.438371  prob:0.0407337
+costh:0.469472  prob:0.046859
+costh:0.5  prob:0.0526119
+costh:0.529919  prob:0.0577861
+costh:0.559193  prob:0.0623201
+costh:0.587785  prob:0.0663921
+costh:0.615661  prob:0.0705256
+costh:0.642788  prob:0.0756948
+costh:0.669131  prob:0.0834555
+costh:0.694658  prob:0.0961164
+costh:0.71934  prob:0.116968
+costh:0.743145  prob:0.150618
+costh:0.766044  prob:0.203416
+costh:0.788011  prob:0.284046
+costh:0.809017  prob:0.404179
+costh:0.829038  prob:0.579286
+costh:0.848048  prob:0.829346
+costh:0.866025  prob:1.17931
+costh:0.882948  prob:1.65891
+costh:0.898794  prob:2.30154
+costh:0.913545  prob:3.1415
+costh:0.927184  prob:4.2105
+costh:0.939693  prob:5.53139
+costh:0.951057  prob:7.11142
+costh:0.961262  prob:8.93511
+costh:0.970296  prob:10.9573
+costh:0.978148  prob:13.1008
+costh:0.984808  prob:15.2559
+costh:0.990268  prob:17.2919
+costh:0.994522  prob:19.0675
+costh:0.997564  prob:20.4499
+costh:0.999391  prob:21.3271
+costh:1  prob:21.6281
+temp:0  energy:7e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:3.14476e-05
+costh:-0.999391  prob:3.11881e-05
+costh:-0.997564  prob:3.04466e-05
+costh:-0.994522  prob:2.93291e-05
+costh:-0.990268  prob:2.80012e-05
+costh:-0.984808  prob:2.66808e-05
+costh:-0.978148  prob:2.56305e-05
+costh:-0.970296  prob:2.51382e-05
+costh:-0.961262  prob:2.54948e-05
+costh:-0.951057  prob:2.69837e-05
+costh:-0.939693  prob:2.98916e-05
+costh:-0.927184  prob:3.45062e-05
+costh:-0.913545  prob:4.1059e-05
+costh:-0.898794  prob:4.96407e-05
+costh:-0.882948  prob:6.01561e-05
+costh:-0.866025  prob:7.23679e-05
+costh:-0.848048  prob:8.59582e-05
+costh:-0.829038  prob:0.000100543
+costh:-0.809017  prob:0.000115613
+costh:-0.788011  prob:0.000130493
+costh:-0.766044  prob:0.000144398
+costh:-0.743145  prob:0.000156537
+costh:-0.71934  prob:0.000166206
+costh:-0.694658  prob:0.000172636
+costh:-0.669131  prob:0.000175052
+costh:-0.642788  prob:0.000172875
+costh:-0.615662  prob:0.00016613
+costh:-0.587785  prob:0.000156075
+costh:-0.559193  prob:0.000145474
+costh:-0.529919  prob:0.000138753
+costh:-0.5  prob:0.000141789
+costh:-0.469472  prob:0.000161551
+costh:-0.438371  prob:0.000205444
+costh:-0.406737  prob:0.000280579
+costh:-0.374607  prob:0.000393118
+costh:-0.34202  prob:0.000547955
+costh:-0.309017  prob:0.000748311
+costh:-0.275637  prob:0.000994724
+costh:-0.241922  prob:0.00128296
+costh:-0.207912  prob:0.00160162
+costh:-0.173648  prob:0.0019315
+costh:-0.139173  prob:0.00224705
+costh:-0.104528  prob:0.00252098
+costh:-0.0697565  prob:0.00272926
+costh:-0.0348995  prob:0.00285532
+costh:-2.32051e-08  prob:0.00289427
+costh:0.0348995  prob:0.00285682
+costh:0.0697565  prob:0.00277729
+costh:0.104528  prob:0.00272135
+costh:0.139173  prob:0.00279117
+costh:0.173648  prob:0.00312508
+costh:0.207912  prob:0.00388896
+costh:0.241922  prob:0.00526067
+costh:0.275637  prob:0.00740971
+costh:0.309017  prob:0.0104737
+costh:0.34202  prob:0.0145309
+costh:0.374607  prob:0.0195686
+costh:0.406737  prob:0.0254515
+costh:0.438371  prob:0.0319116
+costh:0.469472  prob:0.0385509
+costh:0.5  prob:0.0448888
+costh:0.529919  prob:0.0504329
+costh:0.559193  prob:0.0547835
+costh:0.587785  prob:0.0577556
+costh:0.615661  prob:0.059537
+costh:0.642788  prob:0.0608543
+costh:0.669131  prob:0.0631386
+costh:0.694658  prob:0.0686782
+costh:0.71934  prob:0.0807363
+costh:0.743145  prob:0.103706
+costh:0.766044  prob:0.143353
+costh:0.788011  prob:0.207204
+costh:0.809017  prob:0.305167
+costh:0.829038  prob:0.450455
+costh:0.848048  prob:0.660852
+costh:0.866025  prob:0.960215
+costh:0.882948  prob:1.37991
+costh:0.898794  prob:1.95955
+costh:0.913545  prob:2.74656
+costh:0.927184  prob:3.79228
+costh:0.939693  prob:5.14669
+costh:0.951057  prob:6.84753
+costh:0.961262  prob:8.90764
+costh:0.970296  prob:11.3
+costh:0.978148  prob:13.9449
+costh:0.984808  prob:16.7055
+costh:0.990268  prob:19.3955
+costh:0.994522  prob:21.7976
+costh:0.997564  prob:23.6999
+costh:0.999391  prob:24.9218
+costh:1  prob:25.344
+temp:0  energy:8e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:4.04868e-05
+costh:-0.999391  prob:4.02536e-05
+costh:-0.997564  prob:3.94901e-05
+costh:-0.994522  prob:3.80943e-05
+costh:-0.990268  prob:3.60826e-05
+costh:-0.984808  prob:3.361e-05
+costh:-0.978148  prob:3.08512e-05
+costh:-0.970296  prob:2.79139e-05
+costh:-0.961262  prob:2.49e-05
+costh:-0.951057  prob:2.19899e-05
+costh:-0.939693  prob:1.9448e-05
+costh:-0.927184  prob:1.75386e-05
+costh:-0.913545  prob:1.65234e-05
+costh:-0.898794  prob:1.67035e-05
+costh:-0.882948  prob:1.84058e-05
+costh:-0.866025  prob:2.18953e-05
+costh:-0.848048  prob:2.73271e-05
+costh:-0.829038  prob:3.48599e-05
+costh:-0.809017  prob:4.47362e-05
+costh:-0.788011  prob:5.71251e-05
+costh:-0.766044  prob:7.18137e-05
+costh:-0.743145  prob:8.80528e-05
+costh:-0.71934  prob:0.000104669
+costh:-0.694658  prob:0.000120217
+costh:-0.669131  prob:0.000133028
+costh:-0.642788  prob:0.000141344
+costh:-0.615662  prob:0.000143826
+costh:-0.587785  prob:0.000140156
+costh:-0.559193  prob:0.000131197
+costh:-0.529919  prob:0.000118609
+costh:-0.5  prob:0.000104478
+costh:-0.469472  prob:9.15842e-05
+costh:-0.438371  prob:8.42245e-05
+costh:-0.406737  prob:8.89056e-05
+costh:-0.374607  prob:0.000114418
+costh:-0.34202  prob:0.000171247
+costh:-0.309017  prob:0.000270174
+costh:-0.275637  prob:0.000419902
+costh:-0.241922  prob:0.000624258
+costh:-0.207912  prob:0.000880966
+costh:-0.173648  prob:0.00118231
+costh:-0.139173  prob:0.0015162
+costh:-0.104528  prob:0.00186481
+costh:-0.0697565  prob:0.00220063
+costh:-0.0348995  prob:0.00248581
+costh:-2.32051e-08  prob:0.00267896
+costh:0.0348995  prob:0.0027471
+costh:0.0697565  prob:0.00268042
+costh:0.104528  prob:0.00249929
+costh:0.139173  prob:0.00225986
+costh:0.173648  prob:0.00206106
+costh:0.207912  prob:0.00205231
+costh:0.241922  prob:0.00243733
+costh:0.275637  prob:0.00346085
+costh:0.309017  prob:0.0053796
+costh:0.34202  prob:0.00842245
+costh:0.374607  prob:0.0127443
+costh:0.406737  prob:0.0183785
+costh:0.438371  prob:0.025186
+costh:0.469472  prob:0.0328228
+costh:0.5  prob:0.0407165
+costh:0.529919  prob:0.048109
+costh:0.559193  prob:0.0541531
+costh:0.587785  prob:0.058089
+costh:0.615661  prob:0.0594684
+costh:0.642788  prob:0.0584261
+costh:0.669131  prob:0.0559735
+costh:0.694658  prob:0.0542788
+costh:0.71934  prob:0.0568937
+costh:0.743145  prob:0.068889
+costh:0.766044  prob:0.0968794
+costh:0.788011  prob:0.14904
+costh:0.809017  prob:0.235261
+costh:0.829038  prob:0.367605
+costh:0.848048  prob:0.561338
+costh:0.866025  prob:0.836559
+costh:0.882948  prob:1.22071
+costh:0.898794  prob:1.75145
+costh:0.913545  prob:2.47906
+costh:0.927184  prob:3.46668
+costh:0.939693  prob:4.7863
+costh:0.951057  prob:6.50916
+costh:0.961262  prob:8.68867
+costh:0.970296  prob:11.3354
+costh:0.978148  prob:14.3901
+costh:0.984808  prob:17.7039
+costh:0.990268  prob:21.0369
+costh:0.994522  prob:24.0909
+costh:0.997564  prob:26.5509
+costh:0.999391  prob:28.1471
+costh:1  prob:28.701
+temp:0  energy:9e+07  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:3.51846e-05
+costh:-0.999391  prob:3.51217e-05
+costh:-0.997564  prob:3.48136e-05
+costh:-0.994522  prob:3.40826e-05
+costh:-0.990268  prob:3.2938e-05
+costh:-0.984808  prob:3.15638e-05
+costh:-0.978148  prob:3.00886e-05
+costh:-0.970296  prob:2.84648e-05
+costh:-0.961262  prob:2.66116e-05
+costh:-0.951057  prob:2.45719e-05
+costh:-0.939693  prob:2.24633e-05
+costh:-0.927184  prob:2.03547e-05
+costh:-0.913545  prob:1.82865e-05
+costh:-0.898794  prob:1.64015e-05
+costh:-0.882948  prob:1.49759e-05
+costh:-0.866025  prob:1.43464e-05
+costh:-0.848048  prob:1.49093e-05
+costh:-0.829038  prob:1.71876e-05
+costh:-0.809017  prob:2.17275e-05
+costh:-0.788011  prob:2.88134e-05
+costh:-0.766044  prob:3.83174e-05
+costh:-0.743145  prob:4.9895e-05
+costh:-0.71934  prob:6.32154e-05
+costh:-0.694658  prob:7.79572e-05
+costh:-0.669131  prob:9.36187e-05
+costh:-0.642788  prob:0.000109521
+costh:-0.615662  prob:0.000124922
+costh:-0.587785  prob:0.000138782
+costh:-0.559193  prob:0.000149125
+costh:-0.529919  prob:0.000152874
+costh:-0.5  prob:0.000147004
+costh:-0.469472  prob:0.000130535
+costh:-0.438371  prob:0.000105871
+costh:-0.406737  prob:7.8751e-05
+costh:-0.374607  prob:5.73434e-05
+costh:-0.34202  prob:5.12578e-05
+costh:-0.309017  prob:7.08955e-05
+costh:-0.275637  prob:0.000127486
+costh:-0.241922  prob:0.000233777
+costh:-0.207912  prob:0.000403706
+costh:-0.173648  prob:0.000648324
+costh:-0.139173  prob:0.00096855
+costh:-0.104528  prob:0.00134959
+costh:-0.0697565  prob:0.00176274
+costh:-0.0348995  prob:0.00217225
+costh:-2.32051e-08  prob:0.00253883
+costh:0.0348995  prob:0.00281702
+costh:0.0697565  prob:0.00295556
+costh:0.104528  prob:0.00290855
+costh:0.139173  prob:0.00266094
+costh:0.173648  prob:0.00225254
+costh:0.207912  prob:0.00179128
+costh:0.241922  prob:0.00145828
+costh:0.275637  prob:0.00150714
+costh:0.309017  prob:0.00225996
+costh:0.34202  prob:0.00408497
+costh:0.374607  prob:0.00734346
+costh:0.406737  prob:0.0123096
+costh:0.438371  prob:0.0190804
+costh:0.469472  prob:0.0274978
+costh:0.5  prob:0.0370849
+costh:0.529919  prob:0.047023
+costh:0.559193  prob:0.0561605
+costh:0.587785  prob:0.0631501
+costh:0.615661  prob:0.066699
+costh:0.642788  prob:0.0659748
+costh:0.669131  prob:0.0610721
+costh:0.694658  prob:0.0535113
+costh:0.71934  prob:0.0467217
+costh:0.743145  prob:0.0464091
+costh:0.766044  prob:0.0607258
+costh:0.788011  prob:0.100089
+costh:0.809017  prob:0.17678
+costh:0.829038  prob:0.304596
+costh:0.848048  prob:0.498814
+costh:0.866025  prob:0.77703
+costh:0.882948  prob:1.16106
+costh:0.898794  prob:1.68061
+costh:0.913545  prob:2.37848
+costh:0.927184  prob:3.31539
+costh:0.939693  prob:4.57119
+costh:0.951057  prob:6.24125
+costh:0.961262  prob:8.41867
+costh:0.970296  prob:11.1658
+costh:0.978148  prob:14.4679
+costh:0.984808  prob:18.1901
+costh:0.990268  prob:22.0587
+costh:0.994522  prob:25.6896
+costh:0.997564  prob:28.6605
+costh:0.999391  prob:30.6058
+costh:1  prob:31.2828
+temp:0  energy:1e+08  tempdep:0  nPoints:91
+nRanges:1
+91 4
+costh:-1  prob:2.12726e-05
+costh:-0.999391  prob:2.1422e-05
+costh:-0.997564  prob:2.18809e-05
+costh:-0.994522  prob:2.2652e-05
+costh:-0.990268  prob:2.36683e-05
+costh:-0.984808  prob:2.48241e-05
+costh:-0.978148  prob:2.60749e-05
+costh:-0.970296  prob:2.74099e-05
+costh:-0.961262  prob:2.87339e-05
+costh:-0.951057  prob:2.98396e-05
+costh:-0.939693  prob:3.05317e-05
+costh:-0.927184  prob:3.07146e-05
+costh:-0.913545  prob:3.03825e-05
+costh:-0.898794  prob:2.94991e-05
+costh:-0.882948  prob:2.80623e-05
+costh:-0.866025  prob:2.62102e-05
+costh:-0.848048  prob:2.42301e-05
+costh:-0.829038  prob:2.24331e-05
+costh:-0.809017  prob:2.11432e-05
+costh:-0.788011  prob:2.08629e-05
+costh:-0.766044  prob:2.236e-05
+costh:-0.743145  prob:2.65501e-05
+costh:-0.71934  prob:3.4403e-05
+costh:-0.694658  prob:4.69735e-05
+costh:-0.669131  prob:6.51767e-05
+costh:-0.642788  prob:8.89392e-05
+costh:-0.615662  prob:0.000116286
+costh:-0.587785  prob:0.000143403
+costh:-0.559193  prob:0.000165989
+costh:-0.529919  prob:0.000180962
+costh:-0.5  prob:0.000187242
+costh:-0.469472  prob:0.00018512
+costh:-0.438371  prob:0.000174899
+costh:-0.406737  prob:0.000155956
+costh:-0.374607  prob:0.000127385
+costh:-0.34202  prob:9.09621e-05
+costh:-0.309017  prob:5.51748e-05
+costh:-0.275637  prob:3.67326e-05
+costh:-0.241922  prob:5.69023e-05
+costh:-0.207912  prob:0.000135434
+costh:-0.173648  prob:0.000287818
+costh:-0.139173  prob:0.000527131
+costh:-0.104528  prob:0.000864915
+costh:-0.0697565  prob:0.00130477
+costh:-0.0348995  prob:0.00182968
+costh:-2.32051e-08  prob:0.00239241
+costh:0.0348995  prob:0.00291981
+costh:0.0697565  prob:0.00333086
+costh:0.104528  prob:0.00355312
+costh:0.139173  prob:0.00352893
+costh:0.173648  prob:0.00322169
+costh:0.207912  prob:0.00264274
+costh:0.241922  prob:0.00189374
+costh:0.275637  prob:0.001202
+costh:0.309017  prob:0.000920397
+costh:0.34202  prob:0.00150047
+costh:0.374607  prob:0.00345943
+costh:0.406737  prob:0.00732936
+costh:0.438371  prob:0.0135508
+costh:0.469472  prob:0.0223094
+costh:0.5  prob:0.0333761
+costh:0.529919  prob:0.0460255
+costh:0.559193  prob:0.0589983
+costh:0.587785  prob:0.0705476
+costh:0.615661  prob:0.0785829
+costh:0.642788  prob:0.0810728
+costh:0.669131  prob:0.0767316
+costh:0.694658  prob:0.0658266
+costh:0.71934  prob:0.050994
+costh:0.743145  prob:0.0380127
+costh:0.766044  prob:0.0364062
+costh:0.788011  prob:0.0595722
+costh:0.809017  prob:0.124173
+costh:0.829038  prob:0.248929
+costh:0.848048  prob:0.453277
+costh:0.866025  prob:0.7564
+costh:0.882948  prob:1.17707
+costh:0.898794  prob:1.73582
+costh:0.913545  prob:2.46051
+costh:0.927184  prob:3.39473
+costh:0.939693  prob:4.60564
+costh:0.951057  prob:6.18906
+costh:0.961262  prob:8.26118
+costh:0.970296  prob:10.9308
+costh:0.978148  prob:14.2446
+costh:0.984808  prob:18.1114
+costh:0.990268  prob:22.2534
+costh:0.994522  prob:26.2246
+costh:0.997564  prob:29.516
+costh:0.999391  prob:31.6824
+costh:1  prob:32.4364
+temp:0  energy:1.1e+08  tempdep:0  nPoints:73
+nRanges:1
+73 4
+costh:-1  prob:1.06599e-08
+costh:-0.999048  prob:1.08393e-08
+costh:-0.996195  prob:1.13574e-08
+costh:-0.991445  prob:1.24415e-08
+costh:-0.984808  prob:1.47573e-08
+costh:-0.976296  prob:1.91488e-08
+costh:-0.965926  prob:2.64555e-08
+costh:-0.953717  prob:3.74551e-08
+costh:-0.939693  prob:5.30028e-08
+costh:-0.92388  prob:7.42259e-08
+costh:-0.906308  prob:1.02061e-07
+costh:-0.887011  prob:1.36599e-07
+costh:-0.866025  prob:1.77237e-07
+costh:-0.843391  prob:2.23278e-07
+costh:-0.819152  prob:2.74155e-07
+costh:-0.793353  prob:3.29015e-07
+costh:-0.766044  prob:3.86466e-07
+costh:-0.737277  prob:4.45856e-07
+costh:-0.707107  prob:5.09681e-07
+costh:-0.67559  prob:5.85554e-07
+costh:-0.642788  prob:6.88221e-07
+costh:-0.608761  prob:8.43213e-07
+costh:-0.573576  prob:1.09175e-06
+costh:-0.5373  prob:1.49369e-06
+costh:-0.5  prob:2.12615e-06
+costh:-0.461749  prob:3.07944e-06
+costh:-0.422618  prob:4.45361e-06
+costh:-0.382683  prob:6.35331e-06
+costh:-0.34202  prob:8.87698e-06
+costh:-0.300706  prob:1.21047e-05
+costh:-0.258819  prob:1.60978e-05
+costh:-0.21644  prob:2.09262e-05
+costh:-0.173648  prob:2.67307e-05
+costh:-0.130526  prob:3.38402e-05
+costh:-0.0871558  prob:4.29642e-05
+costh:-0.0436194  prob:5.54676e-05
+costh:-2.32051e-08  prob:7.36759e-05
+costh:0.0436194  prob:0.000101119
+costh:0.0871557  prob:0.000142621
+costh:0.130526  prob:0.000204185
+costh:0.173648  prob:0.000292601
+costh:0.21644  prob:0.000414863
+costh:0.258819  prob:0.000577748
+costh:0.300706  prob:0.000788485
+costh:0.34202  prob:0.00105804
+costh:0.382683  prob:0.00140889
+costh:0.422618  prob:0.0018888
+costh:0.461749  prob:0.00259061
+costh:0.5  prob:0.00367453
+costh:0.5373  prob:0.00538358
+costh:0.573576  prob:0.00803598
+costh:0.608761  prob:0.0119726
+costh:0.642788  prob:0.0174422
+costh:0.67559  prob:0.0244326
+costh:0.707107  prob:0.0325252
+costh:0.737277  prob:0.0409782
+costh:0.766044  prob:0.049442
+costh:0.793353  prob:0.0599474
+costh:0.819152  prob:0.0810263
+costh:0.843391  prob:0.134836
+costh:0.866025  prob:0.267668
+costh:0.887011  prob:0.562865
+costh:0.906308  prob:1.1527
+costh:0.92388  prob:2.22238
+costh:0.939693  prob:3.99629
+costh:0.953717  prob:6.69607
+costh:0.965926  prob:10.466
+costh:0.976296  prob:15.2749
+costh:0.984808  prob:20.8261
+costh:0.991445  prob:26.524
+costh:0.996195  prob:31.5419
+costh:0.999048  prob:35.0065
+costh:1  prob:36.2456
+temp:0  energy:1.2e+08  tempdep:0  nPoints:73
+nRanges:1
+73 4
+costh:-1  prob:1.67627e-08
+costh:-0.999048  prob:1.69042e-08
+costh:-0.996195  prob:1.63084e-08
+costh:-0.991445  prob:1.49307e-08
+costh:-0.984808  prob:1.40559e-08
+costh:-0.976296  prob:1.32566e-08
+costh:-0.965926  prob:1.25841e-08
+costh:-0.953717  prob:1.3139e-08
+costh:-0.939693  prob:1.4955e-08
+costh:-0.92388  prob:1.858e-08
+costh:-0.906308  prob:2.5059e-08
+costh:-0.887011  prob:3.4791e-08
+costh:-0.866025  prob:4.90896e-08
+costh:-0.843391  prob:6.91735e-08
+costh:-0.819152  prob:9.5138e-08
+costh:-0.793353  prob:1.27938e-07
+costh:-0.766044  prob:1.6875e-07
+costh:-0.737277  prob:2.18006e-07
+costh:-0.707107  prob:2.76241e-07
+costh:-0.67559  prob:3.43569e-07
+costh:-0.642788  prob:4.20936e-07
+costh:-0.608761  prob:5.11959e-07
+costh:-0.573576  prob:6.22954e-07
+costh:-0.5373  prob:7.67616e-07
+costh:-0.5  prob:9.74435e-07
+costh:-0.461749  prob:1.29035e-06
+costh:-0.422618  prob:1.78335e-06
+costh:-0.382683  prob:2.54494e-06
+costh:-0.34202  prob:3.69314e-06
+costh:-0.300706  prob:5.37365e-06
+costh:-0.258819  prob:7.75144e-06
+costh:-0.21644  prob:1.0998e-05
+costh:-0.173648  prob:1.52893e-05
+costh:-0.130526  prob:2.08137e-05
+costh:-0.0871558  prob:2.78016e-05
+costh:-0.0436194  prob:3.66149e-05
+costh:-2.32051e-08  prob:4.79438e-05
+costh:0.0436194  prob:6.31245e-05
+costh:0.0871557  prob:8.45318e-05
+costh:0.130526  prob:0.000115974
+costh:0.173648  prob:0.000163065
+costh:0.21644  prob:0.000233501
+costh:0.258819  prob:0.000337154
+costh:0.300706  prob:0.000486023
+costh:0.34202  prob:0.000694629
+costh:0.382683  prob:0.000982044
+costh:0.422618  prob:0.00137747
+costh:0.461749  prob:0.00193152
+costh:0.5  prob:0.00273432
+costh:0.5373  prob:0.00393845
+costh:0.573576  prob:0.00577812
+costh:0.608761  prob:0.00856684
+costh:0.642788  prob:0.0126477
+costh:0.67559  prob:0.0182729
+costh:0.707107  prob:0.0254223
+costh:0.737277  prob:0.0336685
+costh:0.766044  prob:0.042395
+costh:0.793353  prob:0.0519843
+costh:0.819152  prob:0.0669819
+costh:0.843391  prob:0.102579
+costh:0.866025  prob:0.195681
+costh:0.887011  prob:0.420774
+costh:0.906308  prob:0.908106
+costh:0.92388  prob:1.85701
+costh:0.939693  prob:3.5317
+costh:0.953717  prob:6.22301
+costh:0.965926  prob:10.1633
+costh:0.976296  prob:15.3986
+costh:0.984808  prob:21.653
+costh:0.991445  prob:28.2533
+costh:0.996195  prob:34.1902
+costh:0.999048  prob:38.3482
+costh:1  prob:39.8458
+temp:0  energy:1.3e+08  tempdep:0  nPoints:73
+nRanges:1
+73 4
+costh:-1  prob:2.48219e-09
+costh:-0.999048  prob:6.61884e-09
+costh:-0.996195  prob:8.67393e-09
+costh:-0.991445  prob:5.67107e-09
+costh:-0.984808  prob:7.06899e-09
+costh:-0.976296  prob:7.72406e-09
+costh:-0.965926  prob:5.92516e-09
+costh:-0.953717  prob:7.54523e-09
+costh:-0.939693  prob:7.92273e-09
+costh:-0.92388  prob:7.29341e-09
+costh:-0.906308  prob:9.88045e-09
+costh:-0.887011  prob:1.13486e-08
+costh:-0.866025  prob:1.36216e-08
+costh:-0.843391  prob:2.00127e-08
+costh:-0.819152  prob:2.70593e-08
+costh:-0.793353  prob:3.84591e-08
+costh:-0.766044  prob:5.71427e-08
+costh:-0.737277  prob:8.09521e-08
+costh:-0.707107  prob:1.1495e-07
+costh:-0.67559  prob:1.6133e-07
+costh:-0.642788  prob:2.1885e-07
+costh:-0.608761  prob:2.92631e-07
+costh:-0.573576  prob:3.82655e-07
+costh:-0.5373  prob:4.87962e-07
+costh:-0.5  prob:6.15477e-07
+costh:-0.461749  prob:7.70662e-07
+costh:-0.422618  prob:9.70807e-07
+costh:-0.382683  prob:1.25941e-06
+costh:-0.34202  prob:1.70431e-06
+costh:-0.300706  prob:2.41514e-06
+costh:-0.258819  prob:3.55118e-06
+costh:-0.21644  prob:5.31565e-06
+costh:-0.173648  prob:7.96379e-06
+costh:-0.130526  prob:1.17819e-05
+costh:-0.0871558  prob:1.70509e-05
+costh:-0.0436194  prob:2.40338e-05
+costh:-2.32051e-08  prob:3.29659e-05
+costh:0.0436194  prob:4.41306e-05
+costh:0.0871557  prob:5.81166e-05
+costh:0.130526  prob:7.628e-05
+costh:0.173648  prob:0.000101433
+costh:0.21644  prob:0.000138737
+costh:0.258819  prob:0.000196682
+costh:0.300706  prob:0.000288075
+costh:0.34202  prob:0.000430766
+costh:0.382683  prob:0.000648042
+costh:0.422618  prob:0.000969475
+costh:0.461749  prob:0.00143395
+costh:0.5  prob:0.00209771
+costh:0.5373  prob:0.00304998
+costh:0.573576  prob:0.00443603
+costh:0.608761  prob:0.00648067
+costh:0.642788  prob:0.00949382
+costh:0.67559  prob:0.013826
+costh:0.707107  prob:0.0197426
+costh:0.737277  prob:0.0272331
+costh:0.766044  prob:0.0359238
+costh:0.793353  prob:0.0455766
+costh:0.819152  prob:0.0581622
+costh:0.843391  prob:0.0831389
+costh:0.866025  prob:0.148008
+costh:0.887011  prob:0.31581
+costh:0.906308  prob:0.708774
+costh:0.92388  prob:1.53187
+costh:0.939693  prob:3.08167
+costh:0.953717  prob:5.71752
+costh:0.965926  prob:9.77169
+costh:0.976296  prob:15.3914
+costh:0.984808  prob:22.3485
+costh:0.991445  prob:29.9053
+costh:0.996195  prob:36.8531
+costh:0.999048  prob:41.7909
+costh:1  prob:43.5833
+temp:0  energy:1.4e+08  tempdep:0  nPoints:73
+nRanges:1
+73 4
+costh:-1  prob:1.96674e-08
+costh:-0.999048  prob:6.58904e-10
+costh:-0.996195  prob:9.1491e-09
+costh:-0.991445  prob:3.98553e-09
+costh:-0.984808  prob:2.84752e-09
+costh:-0.976296  prob:6.15348e-09
+costh:-0.965926  prob:1.9184e-09
+costh:-0.953717  prob:5.27789e-09
+costh:-0.939693  prob:6.09108e-09
+costh:-0.92388  prob:9.54267e-10
+costh:-0.906308  prob:8.47207e-09
+costh:-0.887011  prob:7.56339e-09
+costh:-0.866025  prob:4.6933e-09
+costh:-0.843391  prob:1.21341e-08
+costh:-0.819152  prob:1.02311e-08
+costh:-0.793353  prob:1.05539e-08
+costh:-0.766044  prob:2.03143e-08
+costh:-0.737277  prob:2.30912e-08
+costh:-0.707107  prob:3.53197e-08
+costh:-0.67559  prob:6.0211e-08
+costh:-0.642788  prob:8.59347e-08
+costh:-0.608761  prob:1.32576e-07
+costh:-0.573576  prob:1.98664e-07
+costh:-0.5373  prob:2.75402e-07
+costh:-0.5  prob:3.81827e-07
+costh:-0.461749  prob:5.08914e-07
+costh:-0.422618  prob:6.49941e-07
+costh:-0.382683  prob:8.25203e-07
+costh:-0.34202  prob:1.03782e-06
+costh:-0.300706  prob:1.33285e-06
+costh:-0.258819  prob:1.81805e-06
+costh:-0.21644  prob:2.63058e-06
+costh:-0.173648  prob:4.00643e-06
+costh:-0.130526  prob:6.27085e-06
+costh:-0.0871558  prob:9.77909e-06
+costh:-0.0436194  prob:1.49321e-05
+costh:-2.32051e-08  prob:2.20705e-05
+costh:0.0436194  prob:3.13585e-05
+costh:0.0871557  prob:4.28134e-05
+costh:0.130526  prob:5.64133e-05
+costh:0.173648  prob:7.26071e-05
+costh:0.21644  prob:9.33547e-05
+costh:0.258819  prob:0.000123517
+costh:0.300706  prob:0.000172787
+costh:0.34202  prob:0.000257827
+costh:0.382683  prob:0.000403825
+costh:0.422618  prob:0.000644959
+costh:0.461749  prob:0.00102364
+costh:0.5  prob:0.00158993
+costh:0.5373  prob:0.00240514
+costh:0.573576  prob:0.0035542
+costh:0.608761  prob:0.00517025
+costh:0.642788  prob:0.00746728
+costh:0.67559  prob:0.0107599
+costh:0.707107  prob:0.0154297
+costh:0.737277  prob:0.0217934
+costh:0.766044  prob:0.0299093
+costh:0.793353  prob:0.0396045
+costh:0.819152  prob:0.0515446
+costh:0.843391  prob:0.0710126
+costh:0.866025  prob:0.11706
+costh:0.887011  prob:0.240145
+costh:0.906308  prob:0.549786
+costh:0.92388  prob:1.24818
+costh:0.939693  prob:2.65488
+costh:0.953717  prob:5.19369
+costh:0.965926  prob:9.30539
+costh:0.976296  prob:15.2627
+costh:0.984808  prob:22.917
+costh:0.991445  prob:31.4846
+costh:0.996195  prob:39.5435
+costh:0.999048  prob:45.3597
+costh:1  prob:47.4871
+temp:0  energy:1.5e+08  tempdep:0  nPoints:73
+nRanges:1
+73 4
+costh:-1  prob:7.88048e-08
+costh:-0.999048  prob:8.26485e-09
+costh:-0.996195  prob:2.8137e-08
+costh:-0.991445  prob:2.09092e-08
+costh:-0.984808  prob:3.70083e-09
+costh:-0.976296  prob:1.50789e-08
+costh:-0.965926  prob:1.60932e-08
+costh:-0.953717  prob:8.9316e-09
+costh:-0.939693  prob:9.99851e-09
+costh:-0.92388  prob:1.13703e-08
+costh:-0.906308  prob:1.40615e-08
+costh:-0.887011  prob:8.20614e-09
+costh:-0.866025  prob:5.23208e-09
+costh:-0.843391  prob:1.91712e-08
+costh:-0.819152  prob:7.48129e-09
+costh:-0.793353  prob:4.43328e-10
+costh:-0.766044  prob:2.18724e-08
+costh:-0.737277  prob:5.76146e-09
+costh:-0.707107  prob:6.52241e-09
+costh:-0.67559  prob:2.88421e-08
+costh:-0.642788  prob:1.95615e-08
+costh:-0.608761  prob:4.38285e-08
+costh:-0.573576  prob:8.92702e-08
+costh:-0.5373  prob:1.18753e-07
+costh:-0.5  prob:2.015e-07
+costh:-0.461749  prob:3.05165e-07
+costh:-0.422618  prob:4.06294e-07
+costh:-0.382683  prob:5.68341e-07
+costh:-0.34202  prob:7.37402e-07
+costh:-0.300706  prob:9.11575e-07
+costh:-0.258819  prob:1.17719e-06
+costh:-0.21644  prob:1.54577e-06
+costh:-0.173648  prob:2.18305e-06
+costh:-0.130526  prob:3.38708e-06
+costh:-0.0871558  prob:5.44906e-06
+costh:-0.0436194  prob:8.8643e-06
+costh:-2.32051e-08  prob:1.41497e-05
+costh:0.0436194  prob:2.16272e-05
+costh:0.0871557  prob:3.14986e-05
+costh:0.130526  prob:4.35024e-05
+costh:0.173648  prob:5.69566e-05
+costh:0.21644  prob:7.15862e-05
+costh:0.258819  prob:8.86016e-05
+costh:0.300706  prob:0.000112973
+costh:0.34202  prob:0.000156704
+costh:0.382683  prob:0.000241952
+costh:0.422618  prob:0.000403742
+costh:0.461749  prob:0.000690052
+costh:0.5  prob:0.00115777
+costh:0.5373  prob:0.00186708
+costh:0.573576  prob:0.00287885
+costh:0.608761  prob:0.00426399
+costh:0.642788  prob:0.0061353
+costh:0.67559  prob:0.0086996
+costh:0.707107  prob:0.0123048
+costh:0.737277  prob:0.0174219
+costh:0.766044  prob:0.0245004
+costh:0.793353  prob:0.0337752
+costh:0.819152  prob:0.0455672
+costh:0.843391  prob:0.0625496
+costh:0.866025  prob:0.0968942
+costh:0.887011  prob:0.186636
+costh:0.906308  prob:0.425407
+costh:0.92388  prob:1.00491
+costh:0.939693  prob:2.25705
+costh:0.953717  prob:4.66273
+costh:0.965926  prob:8.77638
+costh:0.976296  prob:15.0201
+costh:0.984808  prob:23.3608
+costh:0.991445  prob:32.9952
+costh:0.996195  prob:42.2764
+costh:0.999048  prob:49.0835
+costh:1  prob:51.5936

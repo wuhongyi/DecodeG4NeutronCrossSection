@@ -1,0 +1,2374 @@
+G4NDL
+ENDF/B-VII.1
+repFlag:1
+targetMass:55.454
+nDiscrete:253
+disType:2  energy:7.6456e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.25046
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:7.6312e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.29047
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:7.2788e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.06012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:7.199e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.742e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.7174e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0045
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.5485e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0016
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.3805e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0111
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.2764e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.2194e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.1293e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.1021e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:6.0184e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.09912
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.992e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0022
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.9204e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.09613
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.9014e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0019
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.7849e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0019
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.7306e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0046
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.3258e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0018
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.318e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.1797e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.0474e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0017
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:5.0421e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0018
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.9483e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0085
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.914e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0015
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.8566e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.8455e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.84e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.8256e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.8098e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.01851
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.724e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0028
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.687e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.6751e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.6593e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.5974e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0015
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.5555e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.4625e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0052
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.4182e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0013
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.4057e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.01641
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.3783e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0016
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.3238e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.2745e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0025
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.218e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.03781
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.2102e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.1948e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0013
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:4.0733e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0021
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.991e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.9817e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.9553e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.9215e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0134
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.854e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0019
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.8424e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0029
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.7766e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.7236e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0018
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.7109e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.6894e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.663e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0013
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.649e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.6413e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.002
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.6102e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.5086e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.5045e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0018
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.4364e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.01631
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.4129e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.01611
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.3563e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0034
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.2911e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.00299
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.267e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0129
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.2393e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0035
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.2253e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.00299
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.186e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0068
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.1669e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0016
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.1031e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0067
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.0751e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.0609e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0015
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.0479e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.0276e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:3.0147e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.9703e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0018
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.954e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0036
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.9502e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.9434e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.9358e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.8737e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0037
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.8354e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0025
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.8325e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0053
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.8215e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.815e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.7559e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0057
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.753e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0042
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.7342e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0015
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.7212e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0137
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.7046e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.6966e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.00299
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.6916e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.6825e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0043
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.6543e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.6189e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.6031e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.5981e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.582e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.5743e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.5624e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.5371e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.534e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.5262e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0029
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.517e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.5072e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.4908e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.486e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.4802e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.466e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.4621e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.4243e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.4151e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0016
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.4074e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.3918e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0022
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.3853e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.3517e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.3489e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.246e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.2162e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.2068e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0021
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.2027e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0013
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1982e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0017
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1928e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0025
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1866e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1647e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.002
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1515e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0017
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1386e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0017
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1295e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0067
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1134e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0015
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1045e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0014
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.1013e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.097e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.0919e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0038
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.0812e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.0689e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.0662e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0049
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.0457e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.0397e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:2.0332e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.991e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.987e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.9821e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.9764e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.9734e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0015
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.9653e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0029
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.9431e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0029
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.9318e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.9276e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8995e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8559e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8513e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8419e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8364e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8289e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8259e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8129e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8105e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0025
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.8023e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.7601e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.7253e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.06311
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.7224e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0033
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.7172e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.7102e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0025
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.705e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.7008e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0011
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.6973e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0027
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.691e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.6746e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.6721e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.6555e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0015
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.646e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.627e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0021
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.6128e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.05392
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.5846e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.506e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.4924e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.4872e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.4609e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.4574e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.447e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.4356e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0022
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.4302e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.412e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0017
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3817e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0013
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3716e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3691e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0013
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3587e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.00899
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3556e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0013
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3518e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3452e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0006
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3055e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.3009e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.284e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.2823e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.2633e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.2606e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.02501
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.2555e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0002
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.251e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.2186e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.2154e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.1973e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0036
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.186e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.1595e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0002
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.1198e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0002
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.1156e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0009
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.1109e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.0773e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.0439e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.0411e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.0264e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.022e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.019e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.01741
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:1.0069e+06
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:991800
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:988200
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:977100
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:942000
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0002
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:920850
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0076
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:898280
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.01901
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:884780
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0028
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:870750
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0017
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:849500
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:837900
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0007
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:834910
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0021
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:818600
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:803090
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0021
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:749400
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:747310
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0012
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:735100
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:723000
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0001
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:706400
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0027
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:703400
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0005
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:692030
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.04762
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:657560
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0025
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:603540
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0016
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:601300
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0014
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:598630
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0022
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:575090
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0019
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:569920
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0052
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:564190
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0022
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:460100
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0003
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:366750
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.01681
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:352360
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.09513
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:339540
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:335900
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:251100
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0004
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:230290
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0087
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:211870
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.0008
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:136520
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.00501
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:2  energy:122080
+total:5
+nRanges:1
+range:5 it:1
+x:1e-05  y:0.03806
+x:1000  y:0
+x:2e+07  y:0
+x:2e+07  y:0
+x:1.5e+08  y:0
+disType:1  energy:0
+total:26
+nRanges:2
+range:19 it:1
+range:26 it:2
+x:1e-05  y:0
+x:0.414  y:0
+x:1000  y:2.58397
+x:1400  y:2.19887
+x:2000  y:2.19593
+x:3000  y:1.90295
+x:4500  y:1.71481
+x:5000  y:1.50707
+x:6500  y:1.32481
+x:9000  y:1.63152
+x:10000  y:2.19691
+x:20000  y:2.31254
+x:23000  y:2.38701
+x:33000  y:2.75055
+x:49000  y:2.75741
+x:60000  y:2.65256
+x:200000  y:2.72213
+x:400000  y:2.75643
+x:1e+06  y:3.27479
+x:3e+06  y:3.68733
+x:6e+06  y:3.94543
+x:1e+07  y:3.552
+x:1.4e+07  y:3.04854
+x:2e+07  y:3.37357
+x:2e+07  y:0
+x:1.5e+08  y:0
+
+
+isoFlag:1
+
+
+nPartials:1
+dummy:1
+total:2
+nRanges:1
+range:2 it:1
+x:1e-05  y:1
+x:1.5e+08  y:1
+nen:25
+nRanges:1
+range:25 it:1
+e:1e-05
+neg:51
+nRanges:1
+51 1
+eg:0  pg:5.1936e-06
+eg:50000  pg:0
+eg:100000  pg:3.7615e-07
+eg:150000  pg:2.9117e-08
+eg:350000  pg:9.14493e-07
+eg:400000  pg:2.7642e-08
+eg:650000  pg:4.7192e-07
+eg:700000  pg:1.1906e-08
+eg:850000  pg:1.8635e-07
+eg:900000  pg:5.543e-08
+eg:1e+06  pg:5.8723e-08
+eg:1.15e+06  pg:2.8254e-08
+eg:1.25e+06  pg:2.3208e-07
+eg:1.3e+06  pg:2.929e-08
+eg:1.6e+06  pg:5.3058e-07
+eg:1.65e+06  pg:1.5271e-08
+eg:1.7e+06  pg:5.4439e-07
+eg:1.75e+06  pg:3.0368e-08
+eg:2e+06  pg:5.5818e-08
+eg:2.1e+06  pg:1.8721e-07
+eg:2.15e+06  pg:3.1202e-08
+eg:2.45e+06  pg:4.9197e-08
+eg:2.65e+06  pg:8.9724e-08
+eg:2.7e+06  pg:2.0533e-07
+eg:2.75e+06  pg:9.7485e-08
+eg:2.85e+06  pg:5.1907e-08
+eg:3e+06  pg:8.45471e-08
+eg:3.1e+06  pg:7.5662e-08
+eg:3.25e+06  pg:1.4494e-07
+eg:3.3e+06  pg:5.6422e-08
+eg:3.4e+06  pg:3.0454e-07
+eg:3.45e+06  pg:2.2075e-08
+eg:3.85e+06  pg:3.8334e-08
+eg:4e+06  pg:3.1123e-08
+eg:4.2e+06  pg:3.6667e-07
+eg:4.25e+06  pg:3.0196e-08
+eg:4.4e+06  pg:1.3459e-07
+eg:4.45e+06  pg:2.762e-08
+eg:4.8e+06  pg:9.3736e-08
+eg:4.9e+06  pg:1.5232e-08
+eg:5.55e+06  pg:6.1846e-09
+eg:5.9e+06  pg:7.29013e-07
+eg:5.95e+06  pg:0
+eg:6e+06  pg:7.12623e-07
+eg:6.05e+06  pg:3.9757e-09
+eg:7.25e+06  pg:4.0375e-07
+eg:7.3e+06  pg:0
+eg:7.6e+06  pg:4.3482e-06
+eg:7.65e+06  pg:1.7308e-09
+eg:9.25e+06  pg:3.1231e-07
+eg:9.3e+06  pg:0

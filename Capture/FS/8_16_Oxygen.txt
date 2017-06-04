@@ -1,0 +1,38 @@
+G4NDL
+ENDF/B-VII.1
+repFlag:1
+targetMass:15.8575
+nDiscrete:4
+disType:2  energy:3.2722e+06
+total:3
+nRanges:1
+range:3 it:2
+x:1e-05  y:0.146
+x:3e+07  y:0.146
+x:1.5e+08  y:0.146
+disType:2  energy:2.1842e+06
+total:3
+nRanges:1
+range:3 it:2
+x:1e-05  y:0.854
+x:3e+07  y:0.854
+x:1.5e+08  y:0.854
+disType:2  energy:1.088e+06
+total:3
+nRanges:1
+range:3 it:2
+x:1e-05  y:0.854
+x:3e+07  y:0.854
+x:1.5e+08  y:0.854
+disType:2  energy:870800
+total:3
+nRanges:1
+range:3 it:2
+x:1e-05  y:1
+x:3e+07  y:1
+x:1.5e+08  y:1
+
+
+isoFlag:1
+
+

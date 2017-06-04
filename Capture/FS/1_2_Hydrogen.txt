@@ -1,0 +1,16 @@
+G4NDL
+ENDF/B-VII.1
+repFlag:1
+targetMass:1.9968
+nDiscrete:1
+disType:2  energy:6.251e+06
+total:2
+nRanges:1
+range:2 it:2
+x:1e-05  y:1
+x:1.5e+08  y:1
+
+
+isoFlag:1
+
+

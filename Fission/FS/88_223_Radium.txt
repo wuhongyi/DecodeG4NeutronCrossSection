@@ -1,0 +1,39 @@
+G4NDL
+ENDF/B-VII.1
+infoType:2
+dataType:1
+targetMass:221.103  iflag:1
+nPoly:2
+theCoeff:1.5275
+theCoeff:5.8e-08
+infoType:1
+dataType:4
+theAngularDistributionType:2  targetMass:221.103  frameFlag:1
+nEnergy:2
+nRanges:1
+range:2 it:2
+temp:0  energy:1e-05  tempdep:0
+neg:2
+nRanges:1
+range:2 it:2
+eg:-1  pg:0.5
+eg:1  pg:0.5
+temp:0  energy:2e+07  tempdep:0
+neg:2
+nRanges:1
+range:2 it:2
+eg:-1  pg:0.5
+eg:1  pg:0.5
+infoType:1
+dataType:5
+dummy:221.103  theNumberOfPartials:1
+theRepresentationType:7
+total:2
+nRanges:1
+range:2 it:2
+x:1e-05  y:1
+x:2e+07  y:1
+total:2
+range:2 it:2
+x:1e-05  y:1.288e+06
+x:2e+07  y:1.288e+06

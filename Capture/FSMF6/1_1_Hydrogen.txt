@@ -1,0 +1,306 @@
+G4NDL
+ENDF/B-VII.1
+targetMass:0.999167  frameFlag:2  nProducts:2
+theMassCode:0  theMass:2.2233e+06  theIsomerFlag:0  theDistLaw:2  theGroundStateQValue:2.22463e+06  theActualStateQValue:2.22463e+06
+total:2
+nRanges:1
+range:2 it:2
+x:1e-05  y:1
+x:2e+07  y:1
+nEnergy:96
+nRanges:1
+range:96 it:2
+energy:1e-05  aRep:0  nCoeff:2
+y:-6.16095e-08
+y:-8.86237e-13
+energy:2e-05  aRep:0  nCoeff:2
+y:-8.71289e-08
+y:-1.77244e-12
+energy:5e-05  aRep:0  nCoeff:2
+y:-1.37763e-07
+y:-4.431e-12
+energy:0.0001  aRep:0  nCoeff:2
+y:-1.94826e-07
+y:-8.86201e-12
+energy:0.0002  aRep:0  nCoeff:2
+y:-2.75525e-07
+y:-1.7724e-11
+energy:0.0005  aRep:0  nCoeff:2
+y:-4.35641e-07
+y:-4.431e-11
+energy:0.001  aRep:0  nCoeff:2
+y:-6.16086e-07
+y:-8.86197e-11
+energy:0.002  aRep:0  nCoeff:2
+y:-8.71272e-07
+y:-1.77239e-10
+energy:0.005  aRep:0  nCoeff:2
+y:-1.37758e-06
+y:-4.43098e-10
+energy:0.01  aRep:0  nCoeff:2
+y:-1.94817e-06
+y:-8.86195e-10
+energy:0.0253  aRep:0  nCoeff:2
+y:-3.09866e-06
+y:-2.24207e-09
+energy:0.05  aRep:0  nCoeff:2
+y:-4.35597e-06
+y:-4.43097e-09
+energy:0.1  aRep:0  nCoeff:2
+y:-6.15999e-06
+y:-8.86195e-09
+energy:0.2  aRep:0  nCoeff:2
+y:-8.71098e-06
+y:-1.77239e-08
+energy:0.5  aRep:0  nCoeff:2
+y:-1.37715e-05
+y:-4.43099e-08
+energy:1  aRep:0  nCoeff:2
+y:-1.94731e-05
+y:-8.862e-08
+energy:2  aRep:0  nCoeff:2
+y:-2.75336e-05
+y:-1.77241e-07
+energy:5  aRep:0  nCoeff:2
+y:-4.35175e-05
+y:-4.43113e-07
+energy:10  aRep:0  nCoeff:2
+y:-6.15165e-05
+y:-8.86257e-07
+energy:20  aRep:0  nCoeff:2
+y:-8.69463e-05
+y:-1.77264e-06
+energy:50  aRep:0  nCoeff:2
+y:-0.000137322
+y:-4.43257e-06
+energy:100  aRep:0  nCoeff:2
+y:-0.000193981
+y:-8.86837e-06
+energy:200  aRep:0  nCoeff:2
+y:-0.000273938
+y:-1.77497e-05
+energy:500  aRep:0  nCoeff:2
+y:-0.00043218
+y:-4.44711e-05
+energy:1000  aRep:0  nCoeff:2
+y:-0.000610289
+y:-8.92654e-05
+energy:2000  aRep:0  nCoeff:2
+y:-0.000862803
+y:-0.000179823
+energy:4000  aRep:0  nCoeff:2
+y:-0.00122382
+y:-0.000364801
+energy:6000  aRep:0  nCoeff:2
+y:-0.00150616
+y:-0.00055491
+energy:8000  aRep:0  nCoeff:2
+y:-0.00174911
+y:-0.000750125
+energy:10000  aRep:0  nCoeff:2
+y:-0.00196767
+y:-0.000950418
+energy:15000  aRep:0  nCoeff:2
+y:-0.00244957
+y:-0.00147318
+energy:20000  aRep:0  nCoeff:2
+y:-0.00287608
+y:-0.00202705
+energy:40000  aRep:0  nCoeff:2
+y:-0.0043305
+y:-0.00454327
+energy:60000  aRep:0  nCoeff:2
+y:-0.00558801
+y:-0.00751259
+energy:80000  aRep:0  nCoeff:2
+y:-0.00672493
+y:-0.0108926
+energy:100000  aRep:0  nCoeff:2
+y:-0.00775837
+y:-0.0146363
+energy:150000  aRep:0  nCoeff:2
+y:-0.00990111
+y:-0.0252546
+energy:200000  aRep:0  nCoeff:2
+y:-0.0114089
+y:-0.0370391
+energy:300000  aRep:0  nCoeff:2
+y:-0.0126643
+y:-0.0613841
+energy:400000  aRep:0  nCoeff:2
+y:-0.012133
+y:-0.0837945
+energy:500000  aRep:0  nCoeff:2
+y:-0.0105612
+y:-0.102724
+energy:600000  aRep:0  nCoeff:2
+y:-0.00852232
+y:-0.11806
+energy:700000  aRep:0  nCoeff:2
+y:-0.00637162
+y:-0.130281
+energy:800000  aRep:0  nCoeff:2
+y:-0.00430104
+y:-0.139995
+energy:900000  aRep:0  nCoeff:2
+y:-0.00240138
+y:-0.147755
+energy:1e+06  aRep:0  nCoeff:2
+y:-0.0007066
+y:-0.154011
+energy:1.2e+06  aRep:0  nCoeff:2
+y:0.00206631
+y:-0.16331
+energy:1.4e+06  aRep:0  nCoeff:2
+y:0.00411351
+y:-0.169766
+energy:1.6e+06  aRep:0  nCoeff:2
+y:0.00558012
+y:-0.174444
+energy:1.8e+06  aRep:0  nCoeff:2
+y:0.00659688
+y:-0.177961
+energy:2e+06  aRep:0  nCoeff:2
+y:0.00726866
+y:-0.180691
+energy:2.2e+06  aRep:0  nCoeff:2
+y:0.00767658
+y:-0.182866
+energy:2.4e+06  aRep:0  nCoeff:2
+y:0.00788281
+y:-0.184636
+energy:2.6e+06  aRep:0  nCoeff:2
+y:0.00793506
+y:-0.186101
+energy:2.8e+06  aRep:0  nCoeff:2
+y:0.00787008
+y:-0.187331
+energy:3e+06  aRep:0  nCoeff:2
+y:0.00771632
+y:-0.188374
+energy:3.2e+06  aRep:0  nCoeff:2
+y:0.00749597
+y:-0.189267
+energy:3.4e+06  aRep:0  nCoeff:2
+y:0.00722637
+y:-0.190035
+energy:3.6e+06  aRep:0  nCoeff:2
+y:0.00692113
+y:-0.1907
+energy:3.8e+06  aRep:0  nCoeff:2
+y:0.00659098
+y:-0.191276
+energy:4e+06  aRep:0  nCoeff:2
+y:0.00624436
+y:-0.191776
+energy:4.2e+06  aRep:0  nCoeff:2
+y:0.00588794
+y:-0.192211
+energy:4.4e+06  aRep:0  nCoeff:2
+y:0.00552693
+y:-0.192589
+energy:4.6e+06  aRep:0  nCoeff:2
+y:0.00516545
+y:-0.192915
+energy:4.8e+06  aRep:0  nCoeff:2
+y:0.00480671
+y:-0.193197
+energy:5e+06  aRep:0  nCoeff:2
+y:0.00445317
+y:-0.193439
+energy:5.5e+06  aRep:0  nCoeff:2
+y:0.00360339
+y:-0.193896
+energy:6e+06  aRep:0  nCoeff:2
+y:0.00281526
+y:-0.194182
+energy:6.5e+06  aRep:0  nCoeff:2
+y:0.00209623
+y:-0.194335
+energy:7e+06  aRep:0  nCoeff:2
+y:0.00144742
+y:-0.194386
+energy:7.5e+06  aRep:0  nCoeff:2
+y:0.000866361
+y:-0.194358
+energy:8e+06  aRep:0  nCoeff:2
+y:0.00034871
+y:-0.194268
+energy:8.5e+06  aRep:0  nCoeff:2
+y:-0.000110741
+y:-0.194131
+energy:9e+06  aRep:0  nCoeff:2
+y:-0.000517467
+y:-0.193959
+energy:9.5e+06  aRep:0  nCoeff:2
+y:-0.000876859
+y:-0.193761
+energy:1e+07  aRep:0  nCoeff:2
+y:-0.00119404
+y:-0.193544
+energy:1.05e+07  aRep:0  nCoeff:2
+y:-0.00147375
+y:-0.193314
+energy:1.1e+07  aRep:0  nCoeff:2
+y:-0.00172034
+y:-0.193075
+energy:1.15e+07  aRep:0  nCoeff:2
+y:-0.00193775
+y:-0.192831
+energy:1.2e+07  aRep:0  nCoeff:2
+y:-0.00212952
+y:-0.192585
+energy:1.25e+07  aRep:0  nCoeff:2
+y:-0.00229885
+y:-0.192339
+energy:1.3e+07  aRep:0  nCoeff:2
+y:-0.00244858
+y:-0.192095
+energy:1.35e+07  aRep:0  nCoeff:2
+y:-0.00258129
+y:-0.191853
+energy:1.4e+07  aRep:0  nCoeff:2
+y:-0.00269927
+y:-0.191614
+energy:1.45e+07  aRep:0  nCoeff:2
+y:-0.00280458
+y:-0.191379
+energy:1.5e+07  aRep:0  nCoeff:2
+y:-0.00289909
+y:-0.191148
+energy:1.55e+07  aRep:0  nCoeff:2
+y:-0.00298447
+y:-0.19092
+energy:1.6e+07  aRep:0  nCoeff:2
+y:-0.00306224
+y:-0.190696
+energy:1.65e+07  aRep:0  nCoeff:2
+y:-0.00313377
+y:-0.190476
+energy:1.7e+07  aRep:0  nCoeff:2
+y:-0.0032003
+y:-0.190258
+energy:1.75e+07  aRep:0  nCoeff:2
+y:-0.00326298
+y:-0.190043
+energy:1.8e+07  aRep:0  nCoeff:2
+y:-0.00332282
+y:-0.189829
+energy:1.85e+07  aRep:0  nCoeff:2
+y:-0.00338077
+y:-0.189617
+energy:1.9e+07  aRep:0  nCoeff:2
+y:-0.00343769
+y:-0.189405
+energy:1.95e+07  aRep:0  nCoeff:2
+y:-0.00349434
+y:-0.189192
+energy:2e+07  aRep:0  nCoeff:2
+y:-0.00355143
+y:-0.188978
+theMassCode:1002  theMass:1.99626  theIsomerFlag:0  theDistLaw:4  theGroundStateQValue:2.22463e+06  theActualStateQValue:2.22463e+06
+total:2
+nRanges:1
+range:2 it:2
+x:1e-05  y:1
+x:2e+07  y:1
