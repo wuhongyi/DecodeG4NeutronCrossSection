@@ -4,9 +4,9 @@
 // Author: Hongyi Wu(吴鸿毅)
 // Email: wuhongyi@qq.com 
 // Created: 四 6月  8 21:58:34 2017 (+0800)
-// Last-Updated: 四 6月  8 23:24:44 2017 (+0800)
+// Last-Updated: 五 6月  9 10:32:08 2017 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
-//     Update #: 19
+//     Update #: 22
 // URL: http://wuhongyi.cn 
 
 #include <iostream>
@@ -26,6 +26,8 @@ using namespace std;
 //例如 g++ main.cc -lz -o 123
 //
 //wuString.hh 是 G4 中的 G4String.hh
+
+// 这个还未写完！！！
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 int main(int argc, char *argv[])
 {
@@ -105,64 +107,177 @@ int main(int argc, char *argv[])
   int total;
   ss >> total;
 
+  output<<"dummy:"<<dummy<<"   dummy:"<<dummy<<endl;
+  output<<"total:"<<total<<endl;
+  
   double x,y;
   for (int i=0;i<total;i++)
     {
       ss >> x >> y;//G4ParticleHPVector  Init
+      output<<"x:"<<x<<"  y:"<<y<<endl;
     }
 
-    if (!(ss >> dummy))
+  if (!(ss >> dummy))
     {
       return 1;
     }
-    ss >> dummy;
+  output<<"dummy:"<<dummy<<endl;
+  ss >> dummy;
+  output<<"dummy:"<<dummy<<endl;
 
-
-    // G4ParticleHPAngular::Init
-    int theAngularDistributionType;
-    double targetMass;
-    int frameFlag; // 1=Lab, 2=CMS
+  //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
+  
+  // G4ParticleHPAngular::Init
+  int theAngularDistributionType;
+  double targetMass;
+  int frameFlag; // 1=Lab, 2=CMS
   ss >> theAngularDistributionType >> targetMass;
   ss >> frameFlag;
+  output<<"theAngularDistributionType:"<<theAngularDistributionType<<"   targetMass:"<<targetMass<<"   frameFlag:"<<frameFlag<<endl;
 
+  
+  if(theAngularDistributionType == 0 )
+  {
+  }
+  
   if(theAngularDistributionType==1)
     {
       int nEnergy;
       ss >> nEnergy;
-
+      output<<"nEnergy:"<<nEnergy<<endl;
+      
       // G4ParticleHPLegendreStore
       int range;
       int nRanges;
-     ss >> nRanges;
-     int it;
-     for(int i=0; i<nRanges; i++)
-     {
-       ss>>range;
-       ss>>it;
-     }
+      ss >> nRanges;
+      output<<"nRanges:"<<nRanges<<endl;
+      int it;
+      for(int i=0; i<nRanges; i++)
+	{
+	  ss>>range;
+	  ss>>it;
+	  output<<"range:"<<range<<"   it:"<<it<<endl;
+	}
 
 
-     double temp, energy;
-     int tempdep, nLegendre;
-     int i, ii;
-     for (i=0; i<nEnergy; i++)
-       {
-	 ss >> temp >> energy >> tempdep >> nLegendre;
-	 double coeff=0;
-	 for(ii=0; ii<nLegendre; ii++)
-	   {
-	     ss >> coeff;
-	   }
-       }
+      double temp, energy;
+      int tempdep, nLegendre;
+      int i, ii;
+      for (i=0; i<nEnergy; i++)
+	{
+	  ss >> temp >> energy >> tempdep >> nLegendre;
+	  output<<"temp:"<<temp<<"  energy:"<<energy<<"  tempdep:"<<tempdep<<"  nLegendre:"<<nLegendre<<endl;
+	  double coeff=0;
+	  for(ii=0; ii<nLegendre; ii++)
+	    {
+	      ss >> coeff;
+	      output<<"coeff:"<<coeff<<endl;
+	    }
+	}
     }
 
 
-if (theAngularDistributionType==2)
-  {
+  if (theAngularDistributionType==2)
+    {
+      int nEnergy;
+      ss >> nEnergy;
+      output<<"nEnergy:"<<nEnergy<<endl;
+      
+      // G4InterpolationManager::Init
+      int range;
+      int nRanges;
+      ss >> nRanges;
+      output<<"nRanges:"<<nRanges<<endl;
+      
+      int it;
+      for(int i=0; i<nRanges; i++)
+	{
+	  ss>>range;
+	  ss>>it;
+	  output<<"range:"<<range<<"   it:"<<it<<endl;
+	}
 
-  }
 
+      double temp, energy;
+      int tempdep;
+      for(int i=0; i<nEnergy; i++)
+	{
+	  ss >> temp >> energy >> tempdep;
+	  output<<"temp:"<<temp<<"  energy:"<<energy<<"  tempdep:"<<tempdep<<endl;
+	  
+	  // G4ParticleHPPartial::InitData
+	  int ii;
+	  double eg, pg;
+	  int neg;
+	  ss >> neg;
+	  output<<"neg:"<<neg<<endl;
+	  
+	  // G4InterpolationManager::Init
+	  int range2;
+	  int nRanges2;
+	  ss >> nRanges2;
+	  output<<"nRanges:"<<nRanges2<<endl;
+	  int it2;
+	  for(int k=0; k<nRanges; k++)
+	    {
+	      ss>>range2;
+	      ss>>it2;
+	      output<<"range:"<<range2<<"   it:"<<it2<<endl;
+	    }
+	  
+	  for (ii=0; ii<neg; ii++)
+	    { 
+	      ss >> eg >> pg;
+	      output<<"eg:"<<eg<<"  pg:"<<pg<<endl;
+	    }          
+	}
+    }
 
+  if(theAngularDistributionType!=0 && theAngularDistributionType!=1 && theAngularDistributionType!=2) cout << "unknown distribution found for Angular: "<< theAngularDistributionType << endl;
+
+  //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
+ 
+  ss >> dummy >> dummy;
+  output<<"dummy:"<<dummy<<"   dummy:"<<dummy<<endl;
+
+  // G4ParticleHPEnergyDistribution::Init
+  double dummy1;
+  int theNumberOfPartials;
+  int theRepresentationType;
+  ss >> dummy1 >> theNumberOfPartials;
+
+  for(G4int iiiii=0; iiiii<theNumberOfPartials; iiiii++) 
+    {
+      ss >> theRepresentationType;
+
+      // TODO
+      // switch(theRepresentationType)
+      // {
+      // 	case 1:
+      //     theEnergyDistribution[i] = new G4ParticleHPArbitaryTab;
+      //     break;
+      // 	case 5:        
+      //     theEnergyDistribution[i] = new G4ParticleHPEvapSpectrum;
+      //     break;
+      // 	case 7:
+      //     theEnergyDistribution[i] = new G4ParticleHPFissionSpectrum;
+      //     break;
+      // 	case 9:
+      //     theEnergyDistribution[i] = new G4ParticleHPSimpleEvapSpectrum;
+      //     break;
+      // 	case 11:
+      //     theEnergyDistribution[i] = new G4ParticleHPWattSpectrum;
+      //     break;
+      // 	case 12:
+      //     theEnergyDistribution[i] = new G4ParticleHPMadlandNixSpectrum;
+      //     break;
+      // }
+      // theEnergyDistribution[i]->Init(theData);
+
+      
+    }
+
+  
   
   return 0;
 }
